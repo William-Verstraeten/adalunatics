@@ -21,10 +21,11 @@
 title: ADALunatics
 email: william.verstraeten@epfl.ch, gasser.elbanna@epfl.ch, milo.embeni@eplf.ch, mathias.nuris-souquet@epfl.ch
 description: I am not sure what this will do
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  William-Verstraeten
+
 
 # Build settings
 theme: minima
