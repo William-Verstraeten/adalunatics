@@ -6,19 +6,17 @@
 # --- Required options --- #
 
 # Name of website
-title: Megalopolises
+title: ADALunatics
 
 # Your name to show in the footer
-author: To Infinity ADA Beyond
+author: ADALunatics
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   Resources:
-    - The dataset: "https://sites.google.com/site/yangdingqi/home/foursquare-dataset"
-    - Previous research on mobility: "https://dl.acm.org/doi/10.1145/2020408.2020579"
-
-
+    - The dataset: "https://zenodo.org/record/4277311#.YbC4_dCZNPY"
+    - Twitter API: ""
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -38,7 +36,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "janet.vandergraafmas@epfl.ch, louise.placidet@epfl.ch, julien-yoann.rimok@epfl.ch"
+  email: "william.verstraeten@epfl.ch, gasser.elbanna@epfl.ch, milo.embeni@eplf.ch, mathias.nuris-souquet@epfl.ch"
 #  facebook: deanattali
 #  github: daattali
 #  twitter: daattali
@@ -76,11 +74,11 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-#url-pretty: "http://janetvdg.github.io/megalopolises"
+#url-pretty: "https://william-verstraeten.github.io/adalunatics/"
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://janetvdg.github.io/megalopolises"
-#baseurl: "/megalopolises"
+#url: "https://william-verstraeten.github.io/adalunatics/"
+#baseurl: "/adalunatics/"
 
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
@@ -95,7 +93,7 @@ feed_show_tags: true
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
 
-favicon: "/img/favicon.png?"
+#favicon: "/img/favicon.png?"
 
 # --- Colours / background image --- #
 
