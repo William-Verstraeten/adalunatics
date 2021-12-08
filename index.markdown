@@ -2,10 +2,10 @@
 layout: page
 title: ADALunatics
 subtitle: Deconstructing the metoo movement into impactful events. 
-image: /_includes/imgs/ny.jpg
-thumbnail-img: /_includes/imgs/ny.jpg
-cover-img: /_includes/imgs/ny.jpg
-share-img: /_includes/imgs/ny.jpg
+image: include ny.jpg 
+thumbnail-img: include ny.jpg 
+cover-img: include ny.jpg
+share-img: include ny.jpg
 ---
 
 The goal of this is to test if we can personalize the websites and hopefully add some images:
@@ -15,4 +15,13 @@ The goal of this is to test if we can personalize the websites and hopefully add
 ![20210901_183014](https://user-images.githubusercontent.com/65892642/145226409-c5993575-1bca-4a72-a5e5-d55359039b03.jpg)
 
 2)
+
+<!---_(Figure showing the city of New York and used as a test)!_-->
+
+{% include ny.jpg %}
+
+```
+<!---_(Figure showing the probability distribution according the distance from home in km)!_ -->
+{% include plots/distance_to_home.html %}
+```
 
