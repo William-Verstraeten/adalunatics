@@ -19,9 +19,3 @@ The goal of this is to test if we can personalize the websites and hopefully add
 <!---_(Figure showing the city of New York and used as a test)!_-->
 
 {% include ny.jpg %}
-
-```
-<!---_(Figure showing the probability distribution according the distance from home in km)!_ -->
-{% include plots/distance_to_home.html %}
-```
-
