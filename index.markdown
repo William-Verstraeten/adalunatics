@@ -6,9 +6,11 @@ subtitle: Deconstructing the metoo movement into impactful events.
 
 ---
 
-The goal of this is to test if we can personalize the websites and hopefully add some images: 
+The goal of this is to test if we can personalize the websites and hopefully add some images:
 
-![20210901_183014](C:\Users\willi\Pictures\Saved Pictures\Sensus2021\Competition\20210901_183014.jpg)
+![20210901_183014](https://user-images.githubusercontent.com/65892642/145226409-c5993575-1bca-4a72-a5e5-d55359039b03.jpg)
+
+
 
 
 
