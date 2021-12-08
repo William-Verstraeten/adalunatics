@@ -18,4 +18,5 @@ The goal of this is to test if we can personalize the websites and hopefully add
 
 <!---_(Figure showing the city of New York and used as a test)!_-->
 
-{% include ny.jpg %}
+![Ny](/_includes/imgs/ny.jpg)
+
