@@ -15,5 +15,5 @@ The goal of this is to test if we can personalize the websites and hopefully add
 
 
 ```
-{% include /imgs/ny.jpg %}
+{% include ny.jpg %}
 ```
