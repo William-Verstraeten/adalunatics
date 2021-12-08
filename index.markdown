@@ -2,6 +2,7 @@
 layout: page
 title: ADALunatics
 subtitle: Deconstructing the metoo movement into impactful events. 
+image: /_includes/imgs/ny.jpg
 thumbnail-img: /_includes/imgs/ny.jpg
 cover-img: /_includes/imgs/ny.jpg
 share-img: /_includes/imgs/ny.jpg
@@ -13,5 +14,6 @@ The goal of this is to test if we can personalize the websites and hopefully add
 
 
 
-
-
+```
+{% include /imgs/ny.jpg %}
+```
