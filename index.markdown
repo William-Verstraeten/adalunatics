@@ -7,4 +7,4 @@ use-site-title: true
 
 The goal of this is to test if we can personalize the websites and hopefully add some images:
 
-<img src="assets/images/ny.jpg" alt="ny" width="210" style="float:right"/>
+<img src="assets/img/404-southpark.jpg" alt="ny" width="210" style="float:right"/>
