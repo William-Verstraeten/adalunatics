@@ -21,5 +21,5 @@ The goal of this is to test if we can personalize the websites and hopefully add
 
 
 
-<iframe src="assets/plots/PCA.html" width= "600px" height="600px"></iframe>
+<iframe src="assets/plots/PCA.html" width= "100%" height="600px"></iframe>
 
