@@ -1,4 +1,5 @@
 ---
+
 layout: page
 title: ADALunatics
 subtitle: Deconstructing the metoo movement into impactful events. 
@@ -8,5 +9,9 @@ use-site-title: true
 
 The goal of this is to test if we can personalize the websites and hopefully add some images:
 
-<iframe src="assets/plots/PCA_800x800.html" width= "100%" height="100%"></iframe>
+{% assets/plots/PCA.html %}
+
+<iframe src="assets/plots/Tokyo_hourly.html" width= "100%" height="600"></iframe>
+
+
 
