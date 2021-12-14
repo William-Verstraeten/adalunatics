@@ -25,9 +25,9 @@ use-site-title: true
 
   - Find a nice way to show which keywords we will use
 
-  - <img src="assets/plots/Chapter_1/Sentence_cloud_1.png" class="center"/>
+  - <img src="assets/plots/Chapter_1/Sentence_cloud_1_shorter.png" class="center"/>
 
-    <img src="assets/plots/Chapter_1/Sentence_cloud_1_shorter.png" class="center"/>
+    <img src="assets/plots/Chapter_1/Sentence_cloud_1_shorter_copy.png" class="center"/>
 
     
 
