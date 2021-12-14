@@ -23,13 +23,23 @@ use-site-title: true
 
   - Explain how we select the keywords
 
+    - Start with selecting words linked to metoo, by extracting words linked to metoo
+
+      <img src="assets/plots/Chapter_1/Wordcloud.png" class="center"/>
+
   - Find a nice way to show which keywords we will use
+
+    <img src="assets/plots/Chapter_1/Keywords.png" class="center"/>
+
+    
+
+  - Show the results after manual extraction linked to keywords
 
     <img src="assets/plots/Chapter_1/Sentence_cloud_1_shorter_copy.png" class="center"/>
 
     
 
-  - Show the results after manual extraction linked to keywords
+  - 
 
   - Show the results after first LDA
 
