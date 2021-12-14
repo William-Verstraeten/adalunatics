@@ -53,7 +53,9 @@ use-site-title: true
 
 - Study the time distribution of these quotes
 
-- {% include plots/timeline_1.html %}
+  {% include plots/timeline_1.html %}
+
+  
 
 - Study the gender distribution for these quotes
 
