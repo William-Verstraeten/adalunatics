@@ -24,6 +24,7 @@ use-site-title: true
   - Show the results after first LDA
   - Show the results after second LDA
 - **How can we incorporate the twitter dataset in this ?**
+- Study the time distribution of these quotes
 - Study the gender distribution for these quotes
 - Can we identify other biases (study the distribution of the metadata for the speakers)
 - Is this effect also represented in the tweets ? (unfortunately can't measure, maybe we can compare with another dataset.)
