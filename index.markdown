@@ -20,15 +20,31 @@ use-site-title: true
 **Is there a gender bias in the people who talk about sexual harasment/metoo ?**
 
 - Can we successfully separate quotes group linked to sexual harasment from the rest ?
+
   - Explain how we select the keywords
+
   - Find a nice way to show which keywords we will use
+
+  - <img src="assets/plots/Chapter_1/Sentence_cloud_1.png" class="center"/>
+
+    <img src="assets/plots/Chapter_1/Sentence_cloud_1_shorter.png" class="center"/>
+
+    
+
   - Show the results after manual extraction linked to keywords
+
   - Show the results after first LDA
+
   - Show the results after second LDA
+
 - **How can we incorporate the twitter dataset in this ?**
+
 - Study the time distribution of these quotes
+
 - Study the gender distribution for these quotes
+
 - Can we identify other biases (study the distribution of the metadata for the speakers)
+
 - Is this effect also represented in the tweets ? (unfortunately can't measure, maybe we can compare with another dataset.)
 
 ---------
