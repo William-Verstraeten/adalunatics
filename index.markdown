@@ -20,6 +20,8 @@ use-site-title: true
 **Is there a gender bias in the people who talk about sexual harasment/metoo ?**
 
 - Can we successfully separate quotes group linked to sexual harasment from the rest ?
+  - Explain how we select the keywords
+  - Find a nice way to show which keywords we will use
   - Show the results after manual extraction linked to keywords
   - Show the results after first LDA
   - Show the results after second LDA
