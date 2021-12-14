@@ -25,8 +25,6 @@ use-site-title: true
 
   - Find a nice way to show which keywords we will use
 
-  - <img src="assets/plots/Chapter_1/Sentence_cloud_1_shorter.png" class="center"/>
-
     <img src="assets/plots/Chapter_1/Sentence_cloud_1_shorter_copy.png" class="center"/>
 
     
@@ -34,6 +32,8 @@ use-site-title: true
   - Show the results after manual extraction linked to keywords
 
   - Show the results after first LDA
+
+    <img src="assets/plots/Chapter_1/Sentence_cloud_2.png" class="center"/>
 
   - Show the results after second LDA
 
