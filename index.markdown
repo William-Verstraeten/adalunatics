@@ -43,7 +43,7 @@ use-site-title: true
 
     <img src="assets/plots/Chapter_1/Sentence_cloud_2.png" class="center"/>
 
-  - Show the results after second LDA<img src="assets/plots/Chapter_1/good_cloud_9.png" class="center"/>
+  - Show the results after second LDA<img src="assets/plots/Chapter_1/Good_cloud_9.png" class="center"/>
 
     
 
