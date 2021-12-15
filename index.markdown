@@ -13,8 +13,6 @@ use-site-title: true
 - Introduce the data used again using an image
 - The goal of our research (this should be written at the end of our report (similar to an abstract in a paper))
 
-{% include plots/PCA.html %}
-
 ------------
 
 **Is there a gender bias in the people who talk about sexual harasment/metoo ?**
@@ -45,23 +43,49 @@ use-site-title: true
 
     <img src="assets/plots/Chapter_1/Sentence_cloud_2.png" class="center"/>
 
-  - Show the results after second LDA<img src="assets/plots/Chapter_1/Sentence_cloud_3.png" class="center"/>
+  - Show the results after second LDA<img src="assets/plots/Chapter_1/good_cloud_9.png" class="center"/>
 
     
 
 - **How can we incorporate the twitter dataset in this ?**
 
+  
+
+  
+
 - Study the time distribution of these quotes
 
-  {% include plots/timeline_1.html %}
+  
+
+  {% include plots/timeline_200K.html %}
+
+  
+
+  - Is this timeline also represented in the tweets ? (unfortunately can't measure, maybe we can compare with another dataset.)
 
   
 
 - Study the gender distribution for these quotes
 
+  - Done
+
+    {% include plots/gender_distribution_metadata.html %}
+
+    {% include plots/gender_distribution_200K.html %}
+
 - Can we identify other biases (study the distribution of the metadata for the speakers)
 
-- Is this effect also represented in the tweets ? (unfortunately can't measure, maybe we can compare with another dataset.)
+  
+
+  
+
+- Sentiment analysis with BERT
+
+  - Done for 200K and 400K
+
+    {% include plots/PCA_200K.html %}
+
+    
 
 ---------
 
@@ -84,9 +108,24 @@ use-site-title: true
 **Investigating cancel culture**
 
 - Introduce cancel culture
+
+  
+
 - Explain why it is relevant for metoo
+
+  
+
 - Explain the three people we decided to study
+
+  
+
 - Show their quotes over time and do a case study explaining whether these people simply didn't find jobs or wether their jobs were silenced. (look at the wikipedia page)
+
+  
+
+- Add a horizontal line which shows the average number of quotes before got accused
+
+  
 
 ----------
 
