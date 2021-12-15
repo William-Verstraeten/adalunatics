@@ -9,91 +9,93 @@ use-site-title: true
 
 **Skeleton of the report**
 
-- Short introduction on harassments then zooming in on the metoo movement and then with one sentence explain what we'll be studying.
-- Introduce the data used again using an image
-- The goal of our research (this should be written at the end of our report (similar to an abstract in a paper))
+Short introduction on harassments then zooming in on the metoo movement and then with one sentence explain what we'll be studying.
+
+Introduce the data used again using an image
+
+The goal of our research (this should be written at the end of our report (similar to an abstract in a paper))
 
 ------------
 
 **Is there a gender bias in the people who talk about sexual harasment/metoo ?**
 
-- Can we successfully separate quotes group linked to sexual harasment from the rest ?
+Can we successfully separate quotes group linked to sexual harasment from the rest ?
 
-  - Explain how we select the keywords
+Explain how we select the keywords
 
-    - Start with selecting words linked to metoo, by extracting words linked to metoo
+Start with selecting words linked to metoo, by extracting words linked to metoo
 
-      <img src="assets/plots/Chapter_1/Wordcloud.png" class="center"/>
+<img src="assets/plots/Chapter_1/Wordcloud.png" class="center"/>
 
-  - Find a nice way to show which keywords we will use
+Find a nice way to show which keywords we will use
 
-    <img src="assets/plots/Chapter_1/Keywords.png" class="center"/>
+<img src="assets/plots/Chapter_1/Keywords.png" class="center"/>
 
-    
 
-  - Show the results after manual extraction linked to keywords
 
-    <img src="assets/plots/Chapter_1/Sentence_cloud_1_shorter_copy.png" class="center"/>
+Show the results after manual extraction linked to keywords
 
-    
-
-  - 
-
-  - Show the results after first LDA
-
-    <img src="assets/plots/Chapter_1/Sentence_cloud_2.png" class="center"/>
-
-  - Show the results after second LDA<img src="assets/plots/Chapter_1/Good_cloud_9.png" class="center"/>
-
-    
-
-- **How can we incorporate the twitter dataset in this ?**
-
-  
-
-  
-
-- Study the time distribution of these quotes
-
-  
-
-  {% include plots/timeline_200K.html %}
-
-  
-
-  
-
-  
-
-- Study the gender distribution for these quotes
-
-  {% include plots/gender_distribution_metadata.html %}
-
-  
-
-  
-
-  
-
-  {% include plots/gender_distribution_200K.html %}
+<img src="assets/plots/Chapter_1/Sentence_cloud_1_shorter_copy.png" class="center"/>
 
 
 
 
 
-- Can we identify other biases (study the distribution of the metadata for the speakers)
+Show the results after first LDA
 
-  
+<img src="assets/plots/Chapter_1/Sentence_cloud_2.png" class="center"/>
 
-  
+Show the results after second LDA<img src="assets/plots/Chapter_1/Good_cloud_9.png" class="center"/>
 
-- Sentiment analysis with BERT
 
-  - Done for 200K and 400K
 
-    {% include plots/PCA_200K.html %}
+**How can we incorporate the twitter dataset in this ?**
 
-    
+
+
+
+
+Study the time distribution of these quotes
+
+
+
+{% include plots/timeline_200K.html %}
+
+
+
+
+
+
+
+Study the gender distribution for these quotes
+
+{% include plots/gender_distribution_metadata.html %}
+
+
+
+
+
+
+
+{% include plots/gender_distribution_200K.html %}
+
+
+
+
+
+Can we identify other biases (study the distribution of the metadata for the speakers)
+
+
+
+
+
+Sentiment analysis with BERT
+
+Done for 200K and 400K
+
+{% include plots/PCA_200K.html %}
+
+
 
 ---------
 
