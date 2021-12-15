@@ -3,13 +3,13 @@
 layout: page
 title: ADALunatics
 subtitle: Deconstructing the metoo movement into impactful events. 
-cover-img: /assets/img/wc.png
+cover-img: /assets/img/me-too.jpeg
 use-site-title: true
 ---
 
 **Skeleton of the report**
 
-- Short introduction on harasment then zooming in on the metoo movement and then with one sentence explain what we'll be studying.
+- Short introduction on harassments then zooming in on the metoo movement and then with one sentence explain what we'll be studying.
 - Introduce the data used again using an image
 - The goal of our research (this should be written at the end of our report (similar to an abstract in a paper))
 
