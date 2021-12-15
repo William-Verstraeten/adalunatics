@@ -61,7 +61,7 @@ use-site-title: true
 
   
 
-  - Is this timeline also represented in the tweets ? (unfortunately can't measure, maybe we can compare with another dataset.)
+  
 
   
 
