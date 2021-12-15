@@ -67,11 +67,19 @@ use-site-title: true
 
 - Study the gender distribution for these quotes
 
-  - Done
+  {% include plots/gender_distribution_metadata.html %}
 
-    {% include plots/gender_distribution_metadata.html %}
+  
 
-    {% include plots/gender_distribution_200K.html %}
+  
+
+  
+
+  {% include plots/gender_distribution_200K.html %}
+
+
+
+
 
 - Can we identify other biases (study the distribution of the metadata for the speakers)
 
@@ -131,4 +139,4 @@ use-site-title: true
 
 **Conclusion**
 
-Something very "generalised" for example impact of non-traumatic events can show that culture can also push these kind of movements and we don't have to wait for something bad to happen to expect growth. 
+Something very "generalized" for example impact of non-traumatic events can show that culture can also push these kind of movements and we don't have to wait for something bad to happen to expect growth. 
