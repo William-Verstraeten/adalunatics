@@ -128,9 +128,11 @@ We took three examples of convicted people in the last five years present in the
 
 - Show their quotes over time and do a case study explaining whether these people simply didn't find jobs or wether their jobs were silenced. (look at the wikipedia page)
 
-{% include plots/timeline_quotes_fromAlFranken.html %}
 
-{% include plots/timeline_quotes_mentioningAlFranken.html %}
+| Quotes pronounced by Al Franken | Quotes mentionning  Al Franken |
+|:------:|:------:|
+| {% include plots/timeline_quotes_fromAlFranken.html %} | {% include plots/timeline_quotes_mentioningAlFranken.html %} |
+
 
 {% include plots/timeline_quotes_fromEricSchneiderman.html %}
 
