@@ -127,9 +127,9 @@ We took three examples of convicted people in the last five years present in the
 
 
 <p float="left">
-  <img align="right" src="assets/ img /Franken.jpeg" class="center"/>
-  <img src="assets/img/ quotes_pronounced_Franken.png " width="50" class="left"/> 
-  <img src="assets/img/ quotes_mentioning_Franken.png " width="50" class="right"/> 
+  <img align="right" src="assets/ img /Franken.jpeg" class="left"/>
+  <img src="assets/img/ quotes_pronounced_Franken.png " class="center"/> 
+  <img src="assets/img/ quotes_mentioning_Franken.png " class="right"/> 
 </p>
 
 | Al Franken | Quotes pronounced by Al Franken | Quotes mentionning  Al Franken |
