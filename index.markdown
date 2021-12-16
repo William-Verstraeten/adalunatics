@@ -33,8 +33,7 @@ We investigated the quotes in quotebank throughout the years from 2015 to 2020 a
 
 From the extracted quotes, we got the most frequent words co-occuring with MeToo.
 
-<img src="assets/plots/Chapter_1/Wordcloud.png" class="center"/>
-
+<img src="assets/plots/Chapter_1/Wordcloud.png" width="350" class="left"/>  <img src="assets/plots/Chapter_1/Keywords.png" width="500" class="right"/>
 
 **Is there a gender bias in the people who talk about sexual harasment/metoo ?**
 
@@ -42,8 +41,6 @@ Can we successfully separate quotes group linked to sexual harasment from the re
 
 
 Find a nice way to show which keywords we will use
-
-<img src="assets/plots/Chapter_1/Keywords.png" class="center"/>
 
 
 
@@ -138,7 +135,7 @@ Compare the impact of both traumatic and non-traumatic events
 
 
 
-**Investigating cancel culture**
+<center> <h1>Can we observe a cancel culture as a ramification of #MeToo movement?</h1> </center>
   
 With more than 2.4 million posts under the “#MeToo” hashtag on Instagram in 2020, the movement has a very prominent position in the media (Instagram, 2020). Whilst the movements prevalence in media promotes a supporting and positive environment for individuals or victims who choose to come out with their sexual violence stories , this reflection discusses how the #MeToo movement has inadvertently encouraged toxicity on social media in the form of cancel culture. This toxic public discourse, cancel culture, is shown in prominent cases in media such as the example of Johnny Depp versus Amber Heard sexual and domestic violence allegations (ABC News, 2019). In which Johnny Depp was accused of sexual and domestic violence in 2016, resulting in him being “cancelled”. This included being dropped from his role in the Pirates of the Caribbean. We wanted to be investigate this phenomemon using the Quotebank dataset.
   
