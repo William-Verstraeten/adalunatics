@@ -98,7 +98,10 @@ We can observe that the proportion of quotes from male drastically decreases in 
 ---------
 <center> <h1>Which events are responsible for the growth of the metoo movement ?</h1> </center>
 
-<img src="assets/img/accused_people.gif" class="center"/>
+|<img src="assets/img/accused_people.gif" class="center"/>|
+|:--:| 
+| *Names of accused People* |
+
 
 Over the years the #metoo movement has been marked by a few key traumatic events which lead to a sharp increase in its popularity. We were interested in the impact of some events on the metoo movement. In other words, whether trends in the #metoo timeline were temporally linked to some events. 
 Thus, we gathered a dataset of traumatic events, itemising events related to the core issue of sexual harassment: the allegations by victims. The main source is a Vox article listing more than 250 public figures which were accused of sexual harassment between 2017 and 2019.
