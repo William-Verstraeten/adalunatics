@@ -97,12 +97,12 @@ Study the gender distribution for these quotes
 
 
 
-<img src="assets/img/gender_6M.png" class="center"/>
+<img src="assets/img/Gender_6M.png" class="center"/>
 
 
 
 
-<img src="assets/img/gender_200K.png" class="center"/>
+<img src="assets/img/Gender_200K.png" class="center"/>
 
 
 
