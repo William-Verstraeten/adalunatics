@@ -2,7 +2,7 @@
 layout: page
 title: ADALunatics
 subtitle: Deconstructing the metoo movement into impactful events. 
-cover-img: /assets/img/me-too.jpg
+cover-img: /assets/img/metoo.jpg
 use-site-title: true
 ---
 
