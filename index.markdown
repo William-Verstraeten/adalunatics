@@ -49,6 +49,13 @@ We could interpret them as
 4. **Christmassy** 🎄
 <img src="assets/plots/Chapter_1/ldatopics.png" class="center"/>
 
+Applying PCA on the second LDA layer.
+
+{% include plots/PCA_600K_good_size.html %}
+
+Showing how the second LDA classified the quotes
+
+{% include plots/PCA_600K_good_size_no_colour.html %}
 
 **Is there a gender bias in the people who talk about sexual harassment/metoo ?**
 
@@ -62,19 +69,6 @@ Find a nice way to show which keywords we will use
 Show the results after manual extraction linked to keywords
 
 <img src="assets/plots/Chapter_1/Sentence_cloud_1_shorter_copy.png" class="center"/>
-
-
-
-After first LDA
-
-{% include plots/PCA_600K_good_size.html %}
-
-Showing how the second LDA classified the quotes
-
-{% include plots/PCA_600K_good_size_no_colour.html %}
-
-
-
 
 
 **How can we incorporate the twitter dataset in this ?**
@@ -130,7 +124,7 @@ Done for 200K and 400K
 ---------
 <center> <h1>Which events are responsible for the growth of the metoo movement ?</h1> </center>
 
-<img src="assets/img/Leo-Twitter-1.gif" class="center"/>
+<img src="assets/img/accused_people.gif" class="center"/>
 
 Over the years the #metoo movement has been marked by a few key traumatic events which lead to a sharp increase in its popularity. We were interested in the impact of some events on the metoo movement. In other words, whether trends in the #metoo timeline were temporally linked to some events. 
 Thus, we gathered a dataset of traumatic events, itemising events related to the core issue of sexual harassment: the allegations by victims. The main source is a Vox article listing more than 250 public figures which were accused of sexual harassment between 2017 and 2019.
