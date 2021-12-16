@@ -75,7 +75,7 @@ Study the gender distribution for these quotes
 
 
 
-<img src="assets/img/gender_150k.png" class="center"/>
+<img src="assets/img/gender_150K.png" class="center"/>
 
 
 
