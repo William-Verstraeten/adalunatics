@@ -9,11 +9,7 @@ use-site-title: true
 <center> <h1>How Long Should We Wait for People to TALK?
 </h1> </center>
 
-Short introduction on harassments then zooming in on the metoo movement and then with one sentence explain what we'll be studying.
-
-Introduce the data used again using an image
-
-The goal of our research (this should be written at the end of our report (similar to an abstract in a paper))
+Usually human rights’ movements get resurrected after a traumatic event e.g: Black Lives Matter was founded in 2013 and was revived in 2020 after Floyd’s death. However, there are other benign (Non-traumatic) events that could be a catalyst for movements such as movies e.g: Bombshell movie was released in 2019 opened a conversation about workplace sexual harassment (#MeToo) that occured in 2015.
 
 ------------
 
