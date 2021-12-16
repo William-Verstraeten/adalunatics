@@ -122,21 +122,24 @@ With more than 2.4 million posts under the “#MeToo” hashtag on Instagram in 
 We took three examples of convicted people in the last five years present in the quotes or as speakers in the Quotebank dataset : 
   
 **Al Franken** : American comedian, politician, media personality, who served as a United States Senator from Minnesota from 2009 to 2018, resigned on January 2, 2018, after several allegations of sexual misconduct were made against him.
+
 | Al Franken | Quotes pronounced by Al Franken | Quotes mentionning  Al Franken |
 |:------:|:------:|:------:|
-| <img align="right" src="assets/img/Franken.jpeg" width="150" > | <img src="assets/img/quotes_pronounced_Franken.png " width="350"> | <img src="assets/img/quotes_mentioning_Franken.png " width="350"> |
+| <img align="right" src="assets/img/Franken.jpeg" width="100" > | <img src="assets/img/quotes_pronounced_Franken.png " width="300"> | <img src="assets/img/quotes_mentioning_Franken.png " width="300"> |
 
 
 **Eric Schneiderman** : American lawyer and politician who served as the 65th Attorney General of New York from 2011 until his resignation in May 2018 after The New Yorker reported that four women had accused him of physical abuse.
+
 | Eric Schneiderman | Quotes pronounced by Eric Schneiderman| Quotes mentionning  Eric Schneiderman|
 |:------:|:------:|:------:|
-| <img align="right" src="assets/img/Schneiderman.jpeg" width="150"> | <img src="assets/img/quotes_pronounced_Schneiderman.png " width="350"> | <img src="assets/img/quotes_mentioning_Schneiderman.png " width="350"> |
+| <img align="right" src="assets/img/Schneiderman.jpeg" width="100"> | <img src="assets/img/quotes_pronounced_Schneiderman.png " width="300"> | <img src="assets/img/quotes_mentioning_Schneiderman.png " width="300"> |
 
 
 **Andrew Kreisberg** : American television writer, producer and comic book writer. Kreisberg was suspended nn November 10, 2017 from his role as showrunner on The Flash, Arrow, Legends of Tomorrow, and Supergirl, after fifteen women and four men accused him of sexual harassment. On November 29, 2017, he was fired from all Warner Bros. Television's projects.
+
 | Andrew Kreisberg | Quotes pronounced by Andrew Kreisberg| Quotes mentionning  Andrew Kreisberg|
 |:------:|:------:|:------:|
-| <img align="right" src="assets/img/Kreisberg.jpeg" width="150"> | <img src="assets/img/quotes_pronounced_Kreisberg.png " width="350"> | <img src="assets/img/quotes_mentioning_Kreisberg.png " width="350"> |
+| <img align="right" src="assets/img/Kreisberg.jpeg" width="100"> | <img src="assets/img/quotes_pronounced_Kreisberg.png " width="300"> | <img src="assets/img/quotes_mentioning_Kreisberg.png " width="300"> |
 
 
 We can observe on this three examples that the three of them seems have been cancelled by the media as the number of quotes pronounced by them and the number of quotes mentioning them drastically decreased right after their conviction. 
