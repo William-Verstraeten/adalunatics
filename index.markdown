@@ -88,7 +88,7 @@ Sentiment analysis with BERT
 
 Done for 200K and 400K
 
-{% include plots/PCA_200K.html %}
+{% include plots/PCA_600K_topics_topics_bigger.html %}
 
 
 
@@ -98,12 +98,16 @@ Done for 200K and 400K
 
 - Over the years the #metoo movement has been marked by a few key traumatic events which lead to a sharp increase in its popularity. 
   - Show a timeline of these events 
+<img src="assets/plots/Impacts/Traumatic_events_timeline.png" class="center"/>
   - Show tweet timeline
   - Measure the impact of these events and explain how we do so
+{% include plots/traumatic_mean_mean_good.html %}
 - However, other non-traumatic events have also greatly influenced the metoo movement
+<img src="assets/plots/Impacts/Non_Traumatic_events_timeline.png" class="center"/>
   - Show a second timeline
   - Show same timeline for tweets
   - Measure the impact of these events too
+{% include plots/non_traumatic_mean_mean_good.html %}
 - Compare the impact of both traumatic and non-traumatic events
 
 
