@@ -10,7 +10,7 @@ use-site-title: true
 </h1> </center>
 
 Usually human rights’ movements get resurrected after a traumatic event e.g: Black Lives Matter was founded in 2013 and was revived in 2020 after Floyd’s death. However, there are other benign (Non-traumatic) events that could be a catalyst for movements such as movies e.g: Bombshell movie was released in 2019 opened a conversation about workplace sexual harassment (#MeToo) that occured in 2015.
-<img src="assets/img/turanaburke.png" class="center"/>
+<img src="assets/img/turanaburke.jpg" class="center"/>
 ------------
 
 **Is there a gender bias in the people who talk about sexual harasment/metoo ?**
