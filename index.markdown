@@ -40,6 +40,16 @@ From the extracted quotes, we got the most frequent words co-occurring with MeTo
 
 <img src="assets/plots/Chapter_1/Keywords.png" width="800" height="500" class="center"/>
 
+The topics detected by the LDA were very insightful of the content in the quotes extracted sofar.
+
+We could summarize them as  
+1. **Women Empowerment** 👩 
+2. **Sexual Harassment** ❌
+3. **Politics** 📰
+4. **Christmassy** 🎄
+<img src="assets/plots/Chapter_1/ldatopics.png" class="center"/>
+
+
 **Is there a gender bias in the people who talk about sexual harassment/metoo ?**
 
 Can we successfully separate quotes group linked to sexual harassment from the rest ?
