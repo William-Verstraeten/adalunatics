@@ -129,7 +129,7 @@ However, other non-traumatic events have also greatly influenced the metoo movem
 Show a second timeline
 Show same timeline for tweets
 Measure the impact of these events too
-{% include plots/non_traumatic_mean_mean_good.html %}
+{% include plots/non_and_traumatic_mean_mean.html %}
 Compare the impact of both traumatic and non-traumatic events
 
 
