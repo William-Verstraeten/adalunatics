@@ -131,20 +131,43 @@ Done for 200K and 400K
 
 **Which events are responsible for the growth of the metoo movement ?**
 
-Over the years the #metoo movement has been marked by a few key traumatic events which lead to a sharp increase in its popularity.
+Over the years the #metoo movement has been marked by a few key traumatic events which lead to a sharp increase in its popularity. We were interested in the impact of some events on the metoo movement. In other words, whether trends in the #metoo timeline were temporally linked to some events. 
+Thus, we gathered a dataset of traumatic events, itemising events related to the core issue of sexual harassment: the allegations by victims. The main source is a Vox article listing more than 250 public figures which were accused of sexual harassment between 2017 and 2019.
 
-Show a timeline of these events
+<img src="assets/img/untouchable.jpg" alt="foursquare_logo" width="200" style="float:right"/>
+In parallel, we manually fabricated a dataset of non-traumatic events found by original research. We chose events which are not related to the core issue of sexual harassment and consequences, such as movie releases, publications, demonstrations, and others related to MeToo in the same time period as above. 
+We assume the number of quotes related to MeToo each day to be a proxy of the attention to the topic. We plan to measure the impact of each event as the before-after difference in public attention, and use this measure to investigate and compare traumatic vs non traumatic events.
+
+
 <img src="assets/plots/Traumatic_events_timeline.png" class="center"/>
+This plot displays the timeline of extracted quotes involved with the #metoo movement and shows the allegations/accusations. We can already observe a huge wave of accusations since mid-2017 to early 2018. 
+Talk about the 2week smoothing to reduce noise and the weekly trend
+
+<img src="assets/img/increase_impact.jpeg" alt="foursquare_logo" width="200" style="float:right"/>
+Quantify the impact of a certain event was calculated based on the difference of number of #metoo quotes before and after the event date, on a window of 7 days. 
+
+
 Show tweet timeline
 Measure the impact of these events and explain how we do so
 {% include plots/cropped_1_titles.html %}
 However, other non-traumatic events have also greatly influenced the metoo movement
+
+
 <img src="assets/plots/Non_Traumatic_events_timeline.png" class="center"/>
+This plot displays the timeline of #metoo quotes and the top 15 most impactful traumatic events (dear reader, you can check who was convicted at which moment directly on the timeline!)
+It is clear that our impact measure detected two main waves in the public attention. The first which rises above the baseline is in October 2017, which is the moment in which the hashtag went viral for the first time  
+After a dip during Christmas due to the reduction of people releasing quotes, we can witness another large wave in January 2018. 
+
+
 Show a second timeline
 Show same timeline for tweets
 Measure the impact of these events too
 {% include plots/cropped_2_titles.html %}
 Compare the impact of both traumatic and non-traumatic events
+
+Timeline and table 
+Compare traumatic || non-traumatic events
+
 
 
 
