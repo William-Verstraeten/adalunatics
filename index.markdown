@@ -125,25 +125,29 @@ We took three examples of convicted people in the last five years present in the
 - **Andrew Kreisberg** : American television writer, producer and comic book writer. Kreisberg was suspended nn November 10, 2017 from his role as showrunner on The Flash, Arrow, Legends of Tomorrow, and Supergirl, after fifteen women and four men accused him of sexual harassment. On November 29, 2017, he was fired from all Warner Bros. Television's projects.
   
 
-- Show their quotes over time and do a case study explaining whether these people simply didn't find jobs or wether their jobs were silenced. (look at the wikipedia page)
+| Al Franken | Quotes pronounced by Al Franken | Quotes mentionning  Al Franken |
+|:------:|:------:|:------:|
+|<img align="right" src="assets/ img /Franken.jpeg" class="center"/>| <img src="assets/img/ quotes_pronounced_Franken.png " width="350" class="left"/> | <img src="assets/img/ quotes_mentioning_Franken.png " width="350" class="right"/> |
 
+| Eric Schneiderman | Quotes pronounced by Eric Schneiderman| Quotes mentionning  Eric Schneiderman|
+|:------:|:------:|:------:|
+| <img align="right" src="assets/ img /Schneiderman.jpeg" class="center"/> | <img src="assets/img/ quotes_pronounced_Schneiderman.png " width="350" class="left"/> | <img src="assets/img/ quotes_mentioning_Schneiderman.png " width="350" class="right"/> |
 
-| Quotes pronounced by Al Franken | Quotes mentionning  Al Franken |
-|:------:|:------:|
-|img {% include plots/timeline_quotes_fromAlFranken.html %} |img {% include plots/timeline_quotes_mentioningAlFranken.html %} |
+| Andrew Kreisberg | Quotes pronounced by Andrew Kreisberg| Quotes mentionning  Andrew Kreisberg|
+|:------:|:------:|:------:|
+| <img align="right" src="assets/ img /Kreisberg.jpeg" class="center"/> | <img src="assets/img/ quotes_pronounced_Kreisberg.png " width="350" class="left"/> | <img src="assets/img/ quotes_mentioning_Kreisberg.png " width="350" class="right"/> |
 
+We can observe on this three examples that the three of them seems have been cancelled by the media as the number of quotes pronounced by them and the number of quotes mentioning them drastically decreased right after their conviction. 
 
-{% include plots/timeline_quotes_fromEricSchneiderman.html %}
+Statistical analysis 
+This observation has still to be confirmed by statistical analysis using a t-test assessing the difference of means of the number of quotes between the periods before and after their conviction. 
 
-{% include plots/timeline_quotes_mentioningEricSchneiderman.html %}
+This has been done while studying a set of 65 accused people, mostly americans in which figures in addition to Al Franken, Andrew Kreisberg and Eric Schneiderman : Asia Argento, Luc Besson, Sylvester Stallone, Louis C.K., Kevin Spacey, Bob Weinstein, Oliver Stone, Roman Polanski, Matt Lauer, Glenn Thrush, Corey Lewandowski and others.
 
-{% include plots/timeline_quotes_fromAndrewKreisberg.html %}
+First, a t-test has been assessed between the normalized means of the count of quotes pronounced by them between the periods before and after their conviction, for each 65 accused people. This resulted with a significant p-value (p = 0.00046 <0.05). This puts in relief that this people are probably rejected by the society, giving them less time to express them, shutting them off the media, radios.
 
-{% include plots/timeline_quotes_mentioningAndrewKreisberg.html %}
+Secondly, another t-test has been assessed between the normalized means of the count of quotes mentioning them, again between the periods before and after their conviction, for these same 65 accused people. This resulted with a non-significant p-value (p = 0.672 < 0.05). This means that we couldn’t show that the society talks less about these people after their conviction. 
 
-  
-
-- Add a horizontal line which shows the average number of quotes before got accused
 
   
 
