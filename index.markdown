@@ -125,17 +125,22 @@ We took three examples of convicted people in the last five years present in the
 - **Andrew Kreisberg** : American television writer, producer and comic book writer. Kreisberg was suspended nn November 10, 2017 from his role as showrunner on The Flash, Arrow, Legends of Tomorrow, and Supergirl, after fifteen women and four men accused him of sexual harassment. On November 29, 2017, he was fired from all Warner Bros. Television's projects.
   
 
+
+<p float="left">
+  <img align="right" src="assets/ img /Franken.jpeg" class="center"/>
+  <img src="assets/img/ quotes_pronounced_Franken.png " width="50" class="left"/> 
+  <img src="assets/img/ quotes_mentioning_Franken.png " width="50" class="right"/> 
+</p>
+
 | Al Franken | Quotes pronounced by Al Franken | Quotes mentionning  Al Franken |
-|:------:|:------:|:------:|
-|<img align="right" src="assets/ img /Franken.jpeg" class="center"/>| <img src="assets/img/ quotes_pronounced_Franken.png " width="350" class="left"/> | <img src="assets/img/ quotes_mentioning_Franken.png " width="350" class="right"/> |
 
 | Eric Schneiderman | Quotes pronounced by Eric Schneiderman| Quotes mentionning  Eric Schneiderman|
 |:------:|:------:|:------:|
-| <img align="right" src="assets/ img /Schneiderman.jpeg" class="center"/> | <img src="assets/img/ quotes_pronounced_Schneiderman.png " width="350" class="left"/> | <img src="assets/img/ quotes_mentioning_Schneiderman.png " width="350" class="right"/> |
+| <img align="right" src="assets/ img /Schneiderman.jpeg" class="center"/> | <img src="assets/img/ quotes_pronounced_Schneiderman.png " width="50" class="left"/> | <img src="assets/img/ quotes_mentioning_Schneiderman.png " width="50" class="right"/> |
 
 | Andrew Kreisberg | Quotes pronounced by Andrew Kreisberg| Quotes mentionning  Andrew Kreisberg|
 |:------:|:------:|:------:|
-| <img align="right" src="assets/ img /Kreisberg.jpeg" class="center"/> | <img src="assets/img/ quotes_pronounced_Kreisberg.png " width="350" class="left"/> | <img src="assets/img/ quotes_mentioning_Kreisberg.png " width="350" class="right"/> |
+| <img align="right" src="assets/ img /Kreisberg.jpeg" class="center"/> | <img src="assets/img/ quotes_pronounced_Kreisberg.png " width="50" class="left"/> | <img src="assets/img/ quotes_mentioning_Kreisberg.png " width="50" class="right"/> |
 
 We can observe on this three examples that the three of them seems have been cancelled by the media as the number of quotes pronounced by them and the number of quotes mentioning them drastically decreased right after their conviction. 
 
