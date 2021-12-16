@@ -92,23 +92,27 @@ Done for 200K and 400K
 
 
 
+{% include plots/PCA_600K_topics_bigger.html %}
+
+
+
 ---------
 
 **Which events are responsible for the growth of the metoo movement ?**
 
-- Over the years the #metoo movement has been marked by a few key traumatic events which lead to a sharp increase in its popularity. 
-  - Show a timeline of these events 
+Over the years the #metoo movement has been marked by a few key traumatic events which lead to a sharp increase in its popularity. 
+Show a timeline of these events 
 <img src="assets/plots/Traumatic_events_timeline.png" class="center"/>
-  - Show tweet timeline
-  - Measure the impact of these events and explain how we do so
+Show tweet timeline
+Measure the impact of these events and explain how we do so
 {% include plots/traumatic_mean_mean_good.html %}
-- However, other non-traumatic events have also greatly influenced the metoo movement
+However, other non-traumatic events have also greatly influenced the metoo movement
 <img src="assets/plots/Non_Traumatic_events_timeline.png" class="center"/>
-  - Show a second timeline
-  - Show same timeline for tweets
-  - Measure the impact of these events too
+Show a second timeline
+Show same timeline for tweets
+Measure the impact of these events too
 {% include plots/non_traumatic_mean_mean_good.html %}
-- Compare the impact of both traumatic and non-traumatic events
+Compare the impact of both traumatic and non-traumatic events
 
 
 
