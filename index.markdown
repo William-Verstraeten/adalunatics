@@ -13,7 +13,7 @@ Usually human rights’ movements get resurrected after a traumatic event e.g: B
 ---
 
 <center> <h1>How to Tackle this Problem?</h1> </center>
-<img src="assets/img/quotebank.png" alt="foursquare_logo" width="300" style="float:right"/>
+<img src="assets/img/quotebank.png" alt="foursquare_logo" width="210" style="float:right"/>
 We have used the Quotebank dataset from 2015 to 2020 to investigate the impact of traumatic/non-traumatic events on public opinion. Also, we have fetched tweets related to #MeToo to augment our data.
 
 <img src="assets/img/Leo-Twitter-1.gif" class="center"/>
@@ -26,15 +26,20 @@ We have used the Quotebank dataset from 2015 to 2020 to investigate the impact o
 
 4. Can we observe a cancel culture as a ramification of #MeToo movement?
 
+<center> <h1>Can we extract quotes related to MeToo movement or Sexual Harassment in the workplace from Quotebank 2015-2020?</h1> </center>
+
+We investigated the quotes in quotebank throughout the years from 2015 to 2020 and we found a total of **115,584,251** quotes.
+<img src="assets/plots/Chapter_1/quotes_years.png" class="center"/>
+
+From the extracted quotes, we got the most frequent words co-occuring with MeToo.
+
+<img src="assets/plots/Chapter_1/Wordcloud.png" class="center"/>
+
+
 **Is there a gender bias in the people who talk about sexual harasment/metoo ?**
 
 Can we successfully separate quotes group linked to sexual harasment from the rest ?
 
-Explain how we select the keywords
-
-Start with selecting words linked to metoo, by extracting words linked to metoo
-
-<img src="assets/plots/Chapter_1/Wordcloud.png" class="center"/>
 
 Find a nice way to show which keywords we will use
 
