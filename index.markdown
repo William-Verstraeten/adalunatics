@@ -49,20 +49,17 @@ We could interpret them as
 4. **Christmassy** 🎄
 <img src="assets/plots/Chapter_1/ldatopics.png" class="center"/>
 
-Applying PCA on the second LDA layer.
-
-{% include plots/PCA_600K_good_size.html %}
-
-Showing how the second LDA classified the quotes
-
+The second topic was further investigated by adding another LDA layer and filter more. Then, we applied a PCA to see the clustering of the latest topics generated.
 {% include plots/PCA_600K_good_size_no_colour.html %}
 
-**Is there a gender bias in the people who talk about sexual harassment/metoo ?**
+By labeling the quotes with the latest topics of the final LDA we could see the clusters of different topics that are overlapping.
 
-Can we successfully separate quotes group linked to sexual harassment from the rest ?
-
-
-Find a nice way to show which keywords we will use
+The clusters could be interpreted as
+1. **US Politics** 🔥
+2. **Sports** ⚽
+3. **Sexual Harassment** ❌
+4. **Global Politics** 📰
+{% include plots/PCA_600K_good_size.html %}
 
 
 
@@ -83,26 +80,14 @@ Study the time distribution of these quotes
 
 <img src="assets/img/timeline.png" class="center"/>
 
-
-
-
-
- <center> <h1>Is there a gender bias in the speakers of quotes related to sexual harassment ? </h1> </center>
+<center> <h1>Is there a gender bias in the speakers of quotes related to sexual harassment?</h1> </center>
 
 
 
 Study the gender distribution for these quotes
 
 
-
-
-
-<img src="assets/img/Gender_6M.png" class="center"/>
-
-
-
-
-<img src="assets/img/Gender_200K.png" class="center"/>
+<img src="assets/img/Gender_6M.png" class="left"/><img src="assets/img/Gender_200K.png" class="right"/>
 
 
 
