@@ -138,7 +138,7 @@ Done for 200K and 400K
 
 {% include plots/timeline_quotes_fromEricSchneiderman.html %}
 
-{% include plots/timeline_quotes_mentioningEricSchneiderma.html %}
+{% include plots/timeline_quotes_mentioningEricSchneiderman.html %}
   
 
 - Add a horizontal line which shows the average number of quotes before got accused
