@@ -96,7 +96,7 @@ Done for 200K and 400K
 
 
 
-{% include plots/PCA_600K_topics_bigger.html %}
+{% include plots/PCA_600K_topics_bigger.html width="100%" height="600px"%}
 
 
 
