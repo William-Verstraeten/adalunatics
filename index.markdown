@@ -93,15 +93,16 @@ Study the time distribution of these quotes
 
 Study the gender distribution for these quotes
 
-{% include plots/gender_distribution_metadata.html %}
 
 
 
 
+<img src="assets/img/gender_6M.png" class="center"/>
 
 
 
-<img src="assets/img/gender_150K.png" class="center"/>
+
+<img src="assets/img/gender_200K.png" class="center"/>
 
 
 
