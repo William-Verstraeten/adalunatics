@@ -124,13 +124,13 @@ Show a timeline of these events
 <img src="assets/plots/Traumatic_events_timeline.png" class="center"/>
 Show tweet timeline
 Measure the impact of these events and explain how we do so
-{% include plots/traumatic_mean_mean_good.html %}
+{% include plots/cropped_1_titles.html %}
 However, other non-traumatic events have also greatly influenced the metoo movement
 <img src="assets/plots/Non_Traumatic_events_timeline.png" class="center"/>
 Show a second timeline
 Show same timeline for tweets
 Measure the impact of these events too
-{% include plots/non_and_traumatic_mean_mean.html %}
+{% include plots/cropped_2_titles.html %}
 Compare the impact of both traumatic and non-traumatic events
 
 
