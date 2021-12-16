@@ -40,7 +40,10 @@ From the extracted quotes, we got the most frequent words co-occurring with MeTo
 
 <img src="assets/plots/Chapter_1/Keywords.png" width="800" height="500" class="center"/>
 
-The topics detected by the LDA were very insightful of the content in the quotes extracted sofar.
+These are samples of the initially extracted quotes.
+<img src="assets/plots/Chapter_1/Sentence_cloud_1_shorter_copy.png" class="center"/>
+
+The topics detected by the LDA were very insightful of the content in the quotes extracted so far.
 
 We could interpret them as  
 1. **Women Empowerment** 👩 
@@ -63,9 +66,7 @@ The clusters could be interpreted as
 
 
 
-Show the results after manual extraction linked to keywords
 
-<img src="assets/plots/Chapter_1/Sentence_cloud_1_shorter_copy.png" class="center"/>
 
 
 **How can we incorporate the twitter dataset in this ?**
