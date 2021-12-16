@@ -23,11 +23,8 @@ We have used the Quotebank dataset from 2015 to 2020 to investigate the impact o
 Here are some interesting questions which we’ll dive into:
 
 1. Can we extract quotes related to MeToo movement or Sexual Harassment in the workplace from Quotebank 2015-2020? 
-
-2. What is the impact of the traumatic vs non-traumatic events on the MeToo movement, based on quotes and tweets involved in #MeToo?
-
-3. Is there a gender bias in the quotes involved in #MeToo? 
-
+2. Is there a gender bias in the speakers of quotes related to sexual harassment ? 
+3. What is the impact of the traumatic vs non-traumatic events on the MeToo movement, based on quotes and tweets involved in #MeToo?
 4. Can we observe a cancel culture as a ramification of #MeToo movement?
 
 <center> <h1>Can we extract quotes related to MeToo movement or Sexual Harassment in the workplace from Quotebank 2015-2020?</h1> </center>
@@ -58,13 +55,15 @@ Show the results after manual extraction linked to keywords
 
 
 
+After first LDA
+
+{% include plots/PCA_600K_good_size.html %}
+
+Showing how the second LDA classified the quotes
+
+{% include plots/PCA_600K_good_size_no_colour.html %}
 
 
-Show the results after first LDA
-
-<img src="assets/plots/Chapter_1/Sentence_cloud_2.png" class="center"/>
-
-Show the results after second LDA<img src="assets/plots/Chapter_1/Good_cloud_9.png" class="center"/>
 
 
 
@@ -82,6 +81,9 @@ Study the time distribution of these quotes
 
 
 
+
+
+ <center> <h1>Is there a gender bias in the speakers of quotes related to sexual harassment ? </h1> </center> 
 
 
 
@@ -102,10 +104,6 @@ Study the gender distribution for these quotes
 
 
 Can we identify other biases (study the distribution of the metadata for the speakers)
-
-
-
-
 
 Sentiment analysis with BERT
 
@@ -144,11 +142,11 @@ Compare the impact of both traumatic and non-traumatic events
 
 
 <center> <h1>Can we observe a cancel culture as a ramification of #MeToo movement?</h1> </center>
-  
+
 With more than 2.4 million posts under the “#MeToo” hashtag on Instagram in 2020, the movement has a very prominent position in the media (Instagram, 2020). Whilst the movements prevalence in media promotes a supporting and positive environment for individuals or victims who choose to come out with their sexual violence stories , this reflection discusses how the #MeToo movement has inadvertently encouraged toxicity on social media in the form of cancel culture. This toxic public discourse, cancel culture, is shown in prominent cases in media such as the example of Johnny Depp versus Amber Heard sexual and domestic violence allegations (ABC News, 2019). In which Johnny Depp was accused of sexual and domestic violence in 2016, resulting in him being “cancelled”. This included being dropped from his role in the Pirates of the Caribbean. We wanted to be investigate this phenomemon using the Quotebank dataset.
-  
+
 We took three examples of convicted people in the last five years present in the quotes or as speakers in the Quotebank dataset : 
-  
+
 **Al Franken** : American comedian, politician, media personality, who served as a United States Senator from Minnesota from 2009 to 2018, resigned on January 2, 2018, after several allegations of sexual misconduct were made against him.
 
 | Al Franken | Quotes he pronounced | Quotes mentioning him |
@@ -184,7 +182,7 @@ First, a t-test has been assessed between the normalized means of the count of q
 Secondly, another t-test has been assessed between the normalized means of the count of quotes mentioning them, again between the periods before and after their conviction, for these same 65 accused people. This resulted with a non-significant p-value (p = 0.672 > 0.05). This means that we couldn’t show that the society talks less about these people after their conviction. 
 
 
-  
+
 
 ----------
 
