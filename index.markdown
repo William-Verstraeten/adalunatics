@@ -83,29 +83,16 @@ Study the time distribution of these quotes
 
 <center> <h1>Is there a gender bias in the speakers of quotes related to sexual harassment?</h1> </center>
  
-We were interested in the gender bias in Quotebank 2015-2020 and in the dataset of #metoo quotes. We hypothesised that there would be more quotes from male than female and others in Quotebank and were wondering whether this trend would remain in the #metoo quotes dataset. 
+We were interested in the gender bias in Quotebank 2015-2020 and in the dataset of #metoo quotes. We hypothesised that there would be more quotes from male than female and others in Quotebank and were wondering whether this trend would remain in the #MeToo quotes dataset. 
 
 
-| Distribution in Quotbank[6M quotes] | Distribution in #metoo [200k quotes] |
+| Distribution in Quotebank[6M quotes] | Distribution in #MeToo [200k quotes] |
 |:------:|:------:|
 | <img src="assets/img/Gender_6M.png" width="300" > | <img src="assets/img/Gender_200K.png" width="300" > |
 
 
 
 We can observe that the proportion of quotes from male drastically decreases in the  #metoo quotes dataset, which confirms that there is indeed a general bias towards males which is reversed in the #metoo movement and proves that women are more involved in the movement.
-
-
-
-Sentiment analysis with BERT
-
-Done for 200K and 400K
-
-{% include plots/PCA_600K_good_size.html %}
-
-
-
-{% include plots/PCA_600K_good_size_no_colour.html %}
-
 
 
 ---------
