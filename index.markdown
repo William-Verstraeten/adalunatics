@@ -13,10 +13,18 @@ Usually human rights’ movements get resurrected after a traumatic event e.g: B
 ---
 
 <center> <h1>How to Tackle this Problem?</h1> </center>
-<img src="assets/img/quotebank.png" alt="foursquare_logo" width="400" style="float:right"/>
-We have used the QuoteBank dataset from 2015 to 2020 to investigate the impact of traumatic/non-traumatic events on public opinion. Also, we have fetched tweets related to #MeToo to augment our data.
+<img src="assets/img/quotebank.png" alt="foursquare_logo" width="300" style="float:right"/>
+We have used the Quotebank dataset from 2015 to 2020 to investigate the impact of traumatic/non-traumatic events on public opinion. Also, we have fetched tweets related to #MeToo to augment our data.
 
 <img src="assets/img/Leo-Twitter-1.gif" class="center"/>
+
+1. Can we extract quotes related to MeToo movement or Sexual Harassment in the workplace from Quotebank 2015-2020? 
+
+2. What is the impact of the traumatic vs non-traumatic events on the MeToo movement, based on quotes and tweets involved in #MeToo?
+
+3. Is there a gender bias in the quotes involved in #MeToo? 
+
+4. Can we observe a cancel culture as a ramification of #MeToo movement?
 
 **Is there a gender bias in the people who talk about sexual harasment/metoo ?**
 
