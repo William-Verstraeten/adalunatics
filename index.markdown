@@ -33,7 +33,11 @@ We investigated the quotes in quotebank throughout the years from 2015 to 2020 a
 
 From the extracted quotes, we got the most frequent words co-occuring with MeToo.
 
-<img src="assets/plots/Chapter_1/Wordcloud.png" width="350" class="left"/>  <img src="assets/plots/Chapter_1/Keywords.png" width="500" class="right"/>
+| Our Quotes 😎| Media Cloud 📹|
+|:------:|:------:|
+|<img src="assets/plots/Chapter_1/Wordcloud.png" width="350" class="left"/> | <img src="assets/plots/Chapter_1/media_cloud.jpeg" width="350" height="350" class="left"/>|
+
+<img src="assets/plots/Chapter_1/Keywords.png" width="600" height="500" class="center"/>
 
 **Is there a gender bias in the people who talk about sexual harasment/metoo ?**
 
