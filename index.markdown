@@ -139,6 +139,7 @@ We assume the number of quotes related to MeToo each day to be a proxy of the at
 
 **What is the impact of traumatic events ?**
 <img src="assets/plots/Traumatic_events_timeline.png" class="center"/>
+{% include plots/cropped_1_titles.html %}
 This plot displays the timeline of extracted quotes involved with the #metoo movement and shows the allegations/accusations. We can already observe a huge wave of accusations since mid-2017 to early 2018. 
 Talk about the 2week smoothing to reduce noise and the weekly trend
 
@@ -150,24 +151,15 @@ After a dip during Christmas due to the reduction of people releasing quotes, we
 
 **Are we able to compare impacts from traumatic VS non-traumatic events ?**
 
+{% include plots/cropped_2_titles.html %}
+
 <img src="assets/img/increase_impact.jpeg" alt="foursquare_logo" width="150" style="float:right"/>
 Quantify the impact of a certain event was calculated based on the difference of number of #metoo quotes before and after the event date, on a window of 7 days. 
 
 <center> <h1> to do</h1> </center>
-Show tweet timeline
 Measure the impact of these events and explain how we do so
-{% include plots/cropped_1_titles.html %}
-However, other non-traumatic events have also greatly influenced the metoo movement
-Show a second timeline
-Show same timeline for tweets
-Measure the impact of these events too
-{% include plots/cropped_2_titles.html %}
 Compare the impact of both traumatic and non-traumatic events
-
-Timeline and table 
-Compare traumatic || non-traumatic events
-
-
+Show same timeline for tweets
 
 
 -------
