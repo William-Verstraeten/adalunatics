@@ -1,12 +1,12 @@
 ---
 layout: page
 title: ADALunatics
-subtitle: Deconstructing the metoo movement into impactful events. 
+subtitle: MeToo Movement Resurrection. 
 cover-img: /assets/img/metooimg.png
 use-site-title: true
 ---
 
-**Skeleton of the report**
+**Goal**
 
 Short introduction on harassments then zooming in on the metoo movement and then with one sentence explain what we'll be studying.
 
