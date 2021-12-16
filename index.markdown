@@ -132,6 +132,13 @@ Done for 200K and 400K
 
 - Show their quotes over time and do a case study explaining whether these people simply didn't find jobs or wether their jobs were silenced. (look at the wikipedia page)
 
+{% include plots/timeline_quotes_fromAl Franken.html %}
+
+{% include plots/timeline_quotes_mentioningAl Franken.html %}
+
+{% include plots/timeline_quotes_fromEric Schneiderman.html %}
+
+{% include plots/timeline_quotes_mentioningEric Schneiderma.html %}
   
 
 - Add a horizontal line which shows the average number of quotes before got accused
