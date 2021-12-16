@@ -125,14 +125,9 @@ We took three examples of convicted people in the last five years present in the
 - **Andrew Kreisberg** : American television writer, producer and comic book writer. Kreisberg was suspended nn November 10, 2017 from his role as showrunner on The Flash, Arrow, Legends of Tomorrow, and Supergirl, after fifteen women and four men accused him of sexual harassment. On November 29, 2017, he was fired from all Warner Bros. Television's projects.
   
 
-
-<p float="left">
-  <img align="right" src="assets/img /Franken.jpeg" class="left"/>
-  <img src="assets/img/quotes_pronounced_Franken.png " class="center"/> 
-  <img src="assets/img/quotes_mentioning_Franken.png " class="right"/> 
-</p>
-
 | Al Franken | Quotes pronounced by Al Franken | Quotes mentionning  Al Franken |
+|:------:|:------:|:------:|
+| <img align="right" src="assets/img /Franken.jpeg" > | <img src="assets/img/quotes_pronounced_Franken.png " class="center"/> | <img src="assets/img/quotes_mentioning_Franken.png " class="right"/> |
 
 | Eric Schneiderman | Quotes pronounced by Eric Schneiderman| Quotes mentionning  Eric Schneiderman|
 |:------:|:------:|:------:|
