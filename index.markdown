@@ -6,12 +6,16 @@ cover-img: /assets/img/metooimg.png
 use-site-title: true
 ---
 
-<center> <h1>How Long Should We Wait for People to TALK?
-</h1> </center>
+<center> <h1>How Long Should We Wait for People to TALK?</h1> </center>
 
 Usually human rights’ movements get resurrected after a traumatic event e.g: Black Lives Matter was founded in 2013 and was revived in 2020 after Floyd’s death. However, there are other benign (Non-traumatic) events that could be a catalyst for movements such as movies e.g: Bombshell movie was released in 2019 opened a conversation about workplace sexual harassment (#MeToo) that occured in 2015.
 <img src="assets/img/turanaburke.jpg" class="center"/>
-------------
+---
+
+<center> <h1>How to Tackle this Problem?</h1> </center>
+We have used the QuoteBank dataset from 2015 to 2020 to investigate the impact of traumatic/non-traumatic events on public opinion. Also, we have fetched tweets related to #MeToo to augment our data.
+
+<img src="assets/img/Leo-Twitter-1.gif" class="center"/>
 
 **Is there a gender bias in the people who talk about sexual harasment/metoo ?**
 
