@@ -139,11 +139,11 @@ In parallel, we manually fabricated a dataset of non-traumatic events found by o
 We assume the number of quotes related to MeToo each day to be a proxy of the attention to the topic. We plan to measure the impact of each event as the before-after difference in public attention, and use this measure to investigate and compare traumatic vs non traumatic events.
 
 
-<img src="assets/plots/Traumatic_events_timeline.png" class="center"/>
+<img src="assets/plots/Traumatic_events_timeline.png" width="150" class="center"/>
 This plot displays the timeline of extracted quotes involved with the #metoo movement and shows the allegations/accusations. We can already observe a huge wave of accusations since mid-2017 to early 2018. 
 Talk about the 2week smoothing to reduce noise and the weekly trend
 
-<img src="assets/img/increase_impact.jpeg" alt="foursquare_logo" width="200" style="float:right"/>
+<img src="assets/img/increase_impact.jpeg" alt="foursquare_logo" width="150" style="float:right"/>
 Quantify the impact of a certain event was calculated based on the difference of number of #metoo quotes before and after the event date, on a window of 7 days. 
 
 
