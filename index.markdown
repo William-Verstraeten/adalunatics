@@ -13,6 +13,7 @@ Usually human rights’ movements get resurrected after a traumatic event e.g: B
 ---
 
 <center> <h1>How to Tackle this Problem?</h1> </center>
+<img src="assets/img/quotebank.png" alt="foursquare_logo" width="400" style="float:right"/>
 We have used the QuoteBank dataset from 2015 to 2020 to investigate the impact of traumatic/non-traumatic events on public opinion. Also, we have fetched tweets related to #MeToo to augment our data.
 
 <img src="assets/img/Leo-Twitter-1.gif" class="center"/>
