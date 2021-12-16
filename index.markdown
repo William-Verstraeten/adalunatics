@@ -6,7 +6,8 @@ cover-img: /assets/img/metooimg.png
 use-site-title: true
 ---
 
-**Goal**
+<center> <h1>How Long Should We Wait for People to TALK?
+</h1> </center>
 
 Short introduction on harassments then zooming in on the metoo movement and then with one sentence explain what we'll be studying.
 
