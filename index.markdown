@@ -18,6 +18,10 @@ We have used the Quotebank dataset from 2015 to 2020 to investigate the impact o
 
 <img src="assets/img/Leo-Twitter-1.gif" class="center"/>
 
+**GOAL :**
+
+Here are some interesting questions which we’ll dive into:
+
 1. Can we extract quotes related to MeToo movement or Sexual Harassment in the workplace from Quotebank 2015-2020? 
 
 2. What is the impact of the traumatic vs non-traumatic events on the MeToo movement, based on quotes and tweets involved in #MeToo?
