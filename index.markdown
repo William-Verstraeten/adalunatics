@@ -88,7 +88,7 @@ Study the time distribution of these quotes
 Study the gender distribution for these quotes
 
 
-<img src="assets/img/Gender_6M.png" class="left"/><img src="assets/img/Gender_200K.png" class="right"/>
+<img src="assets/img/Gender_6M.png" width="400" class="left"/><img src="assets/img/Gender_200K.png" width="400" class="right"/>
 
 
 
