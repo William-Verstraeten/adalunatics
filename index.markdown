@@ -127,20 +127,20 @@ We took three examples of convicted people in the last five years present in the
 
 
 <p float="left">
-  <img align="right" src="assets/ img /Franken.jpeg" class="left"/>
-  <img src="assets/img/ quotes_pronounced_Franken.png " class="center"/> 
-  <img src="assets/img/ quotes_mentioning_Franken.png " class="right"/> 
+  <img align="right" src="assets/img /Franken.jpeg" class="left"/>
+  <img src="assets/img/quotes_pronounced_Franken.png " class="center"/> 
+  <img src="assets/img/quotes_mentioning_Franken.png " class="right"/> 
 </p>
 
 | Al Franken | Quotes pronounced by Al Franken | Quotes mentionning  Al Franken |
 
 | Eric Schneiderman | Quotes pronounced by Eric Schneiderman| Quotes mentionning  Eric Schneiderman|
 |:------:|:------:|:------:|
-| <img align="right" src="assets/ img /Schneiderman.jpeg" class="center"/> | <img src="assets/img/ quotes_pronounced_Schneiderman.png " width="50" class="left"/> | <img src="assets/img/ quotes_mentioning_Schneiderman.png " width="50" class="right"/> |
+| <img align="right" src="assets/img/Schneiderman.jpeg" class="center"/> | <img src="assets/img/quotes_pronounced_Schneiderman.png " width="50" class="left"/> | <img src="assets/img/quotes_mentioning_Schneiderman.png " width="50" class="right"/> |
 
 | Andrew Kreisberg | Quotes pronounced by Andrew Kreisberg| Quotes mentionning  Andrew Kreisberg|
 |:------:|:------:|:------:|
-| <img align="right" src="assets/ img /Kreisberg.jpeg" class="center"/> | <img src="assets/img/ quotes_pronounced_Kreisberg.png " width="50" class="left"/> | <img src="assets/img/ quotes_mentioning_Kreisberg.png " width="50" class="right"/> |
+| <img align="right" src="assets/img/Kreisberg.jpeg" class="center"/> | <img src="assets/img/quotes_pronounced_Kreisberg.png " width="50" class="left"/> | <img src="assets/img/quotes_mentioning_Kreisberg.png " width="50" class="right"/> |
 
 We can observe on this three examples that the three of them seems have been cancelled by the media as the number of quotes pronounced by them and the number of quotes mentioning them drastically decreased right after their conviction. 
 
