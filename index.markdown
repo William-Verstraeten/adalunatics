@@ -31,7 +31,7 @@ We have used the Quotebank dataset from 2015 to 2020 to investigate the impact o
 We investigated the quotes in quotebank throughout the years from 2015 to 2020 and we found a total of **115,584,251** quotes.
 <img src="assets/plots/Chapter_1/quotes_years.png" class="center"/>
 
-From the extracted quotes, we got the most frequent words co-occuring with MeToo.
+From the extracted quotes, we got the most frequent words co-occuring with MeToo and we validated our results with a word cloud from [Media Cloud](https://mediacloud.org/) to confirm that our sample is representative of the movement.
 
 | Our Quotes 😎| Media Cloud 📹|
 |:------:|:------:|
