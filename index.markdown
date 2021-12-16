@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ADALunatics
-subtitle: MeToo Movement Resurrection.
+title: MeToo Movement Resurrection
+subtitle: What imapcts a Human Rights Movement?
 cover-img: /assets/img/metooimg.png
 use-site-title: true
 ---
