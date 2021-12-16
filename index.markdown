@@ -58,8 +58,7 @@ Study the time distribution of these quotes
 
 
 
-{% include plots/timeline_200K.html %}
-
+<img src="assets/img/timeline.png" class="center"/>
 
 
 
