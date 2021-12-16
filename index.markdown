@@ -8,7 +8,7 @@ use-site-title: true
 
 <center> <h1>How Long Should We Wait for People to TALK?</h1> </center>
 
-Usually, human rights’ movements get resurrected after a traumatic event e.g: Black Lives Matter was founded in 2013 and was revived in 2020 after Floyd’s death. However, there are other benign (non-traumatic) events that could be a catalyst for movements such as movies e.g: the Bombshell movie was released in 2019 and reopened a conversation about workplace sexual harassment (#MeToo) that was first made famous in 2017.
+Human rights’ movements tend to get resurrected after a traumatic event. One such example is the Black Lives Matter movement which was founded in 2013 and was revived in 2020 after George Floyd’s death. However, other benign (non-traumatic) events can also be a catalyst for these movements, for instance the movie Bombshell was released in 2019 and reopened a conversation about workplace sexual harassment (#MeToo) that was first made famous in 2017.
 <img src="assets/img/turanaburke.jpg" class="center"/>
 ---
 
