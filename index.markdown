@@ -1,9 +1,8 @@
 ---
-
 layout: page
 title: ADALunatics
 subtitle: Deconstructing the metoo movement into impactful events. 
-cover-img: /assets/img/me-too.jpg
+cover-img: /assets/img/me-too-cropped.jpg
 use-site-title: true
 ---
 
@@ -103,9 +102,11 @@ Done for 200K and 400K
 
 - Over the years the #metoo movement has been marked by a few key traumatic events which lead to a sharp increase in its popularity. 
   - Show a timeline of these events 
+  - Show tweet timeline
   - Measure the impact of these events and explain how we do so
 - However, other non-traumatic events have also greatly influenced the metoo movement
   - Show a second timeline
+  - Show same timeline for tweets
   - Measure the impact of these events too
 - Compare the impact of both traumatic and non-traumatic events
 
