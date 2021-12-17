@@ -131,7 +131,7 @@ This plot displays the timeline of extracted quotes involved with the #metoo mov
 
 Now that we have our traumatic events we can measure their impact on the number of quotes related to sexual harassment.
 
-| Distribution of events impacts | Top10 most impactful events |
+| Distribution of traumatic events impacts | Top10 most impactful events |
 |:------:|:------:|
 |<img src="assets/img/Impact_traumatic.png" width = "400px" class="center"/>| <img src="assets/img/top10.png" width = "400" >|
 
@@ -156,9 +156,20 @@ It is clear that our impact measure detected two main waves in the public attent
 After a dip during Christmas due to the reduction of people releasing quotes, we can witness another large wave in January 2018. 
 
 
-| Distribution of events impacts | Top10 most impactful events |
+| Distribution of non-traumatic events impacts | Top10 most impactful events |
 |:------:|:------:|
 |<img src="assets/img/Impact_non_traumatic.png" width = "400" > | <img src="assets/img/top10.png" width = "400" >|
+
+
+| Top6 | Name | Date | Impact Measurement |
+|:------:|:------:|:------:|:------:|
+|1  | Weinstein fired by the Weinstein company | 2017-10-08 |  43.39|
+|2   | Netta’s song “Toy” won Eurovision | 2018-05-12 |  29.92|
+|3   | The assistant | 2019-10-13 |  5.77 |
+|4   | Bombschell | 2019-12-13 |  4.07|
+|5   | Emma Watson appears with TimesUp tatoo | 2018-05-05 |  3.92|
+|6  | Actress Asia Argento gives porwerfull speech against Weinstein at Cannes Festival | 2018-05-19|  3.15|
+
 
 
 **Are we able to compare impacts from traumatic VS non-traumatic events ?**
