@@ -166,7 +166,7 @@ None of the events analysed seem to directly impact the subsequent wave: by clos
 
 Here, we assembled a random sample of tweets and visualized the location of these tweets on an interactive map to explore the tweets distribution.
 
-{% include plots/map.html %}
+<iframe src="assets/plots/map.html" width="100%" height="600px"></iframe>
 
 -----------------
 
