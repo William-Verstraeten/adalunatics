@@ -131,7 +131,11 @@ This plot displays the timeline of extracted quotes involved with the #metoo mov
 
 Now that we have our traumatic events we can measure their impact on the number of quotes related to sexual harassment.
 
-<img src="assets/img/Impact_traumatic.png" width = "400px" class="center"/>
+| Distribution of events impacts | Top10 most impactful events |
+|:------:|:------:|
+|<img src="assets/img/Impact_traumatic.png" width = "400px" class="center"/>| <img src="assets/img/top10.png" width = "400" >|
+
+
 
 
 When studying the 10 most impactful events we notice that these belong to the 2 main waves of accusations, indicating that these waves of accusations are indeed related to an incease in quotes related to sexual harassment. (Dear reader, you can check who was convicted at which moment directly on the timeline!) 
