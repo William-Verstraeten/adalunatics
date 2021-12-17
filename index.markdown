@@ -30,6 +30,9 @@ Here are some interesting questions which we’ll dive into:
 3. What is the impact of the traumatic vs non-traumatic events on the MeToo movement, based on quotes and tweets involved in #MeToo?
 4. Can we observe cancel culture as a ramification of the #MeToo movement?
 
+
+-------
+
 <center> <h1>Can we extract quotes related to MeToo movement or Sexual Harassment in the workplace from Quotebank 2015-2020?</h1> </center>
 
 We investigated the quotes in Quotebank throughout the years from 2015 to 2020 and we found a total of **115,584,251** quotes.
@@ -82,6 +85,8 @@ The timeline of the counts of these quotes can be firstly observed on a monthly 
 
 
 <img src="assets/img/timeline_cropped.png" class="center"/>
+
+------
 
 <center> <h1>Is there a gender bias in the speakers of quotes related to sexual harassment?</h1> </center>
  
