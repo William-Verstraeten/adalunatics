@@ -57,12 +57,15 @@ We could interpret them as
 2. **Sexual Harassment** ❌
 3. **Politics** 📰
 4. **Christmassy** 🎄
+
+
 <img src="assets/plots/Chapter_1/ldatopics.png" class="center"/>
 
 
 The second topic seems to be more like our target. It was further investigated by adding another LDA layer to filter it more. Then, we applied a PCA to explore the clustering of the latest topics generated.
 The plot below shows a subsample of the first 2 PCA dimensions of the extracted quotes before filtering them based on topic a second time.
 (You can read the quote itself by hovering the datapoint on the plot!)
+
 {% include plots/PCA_600K_good_size_no_colour.html %}
 
 By labeling the quotes with the latest topics of the final LDA we could see the clusters of different topics that are overlapping.
@@ -72,6 +75,8 @@ The clusters could be interpreted as
 2. **Sports** ⚽
 3. **Sexual Harassment** ❌
 4. **Global Politics** 📰
+
+
 {% include plots/PCA_600K_good_size.html %}
 
 
