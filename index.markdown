@@ -8,13 +8,14 @@ use-site-title: true
 
 <center> <h1>How Many People Should Suffer Before We TALK about it?</h1> </center>
 
-Human Rights’ movements tend to get resurrected after a traumatic event. One such example is the Black Lives Matter movement which was founded in 2013 and was revived in 2020 after George Floyd’s death. However, other benign (non-traumatic) events can also be a catalyst for these movements, for instance the movie Bombshell was released in 2019 and reopened a conversation about workplace sexual harassment (#MeToo) that was first made famous in 2017.
+Human Rights’ movements tend to experience surges in pupularity after emotionally intense, or traumatic, events. One such example is Black Lives Matter, which was founded in 2013 and was revived in 2020 after George Floyd’s death. Other benign (non-traumatic) events can also be catalysts for these movements: another example is the movie Bombshell, which was released in 2019 and reopened the conversation about workplace sexual harassment (#MeToo) that was first made famous in 2017.
 <img src="assets/img/turanaburke.jpg" class="center"/>
 ---
 
 <center> <h1>How to Tackle this Problem?</h1> </center>
 <img src="assets/img/quotebank.png" alt="foursquare_logo" width="210" style="float:right"/>
-We have used the Quotebank dataset from 2015 to 2020 to investigate the impact of traumatic/non-traumatic events on public opinion. Also, we have fetched tweets related to #MeToo to augment our data.
+In order to explore the public perception of the MeToo movement and investigate the impact of traumatic/non-traumatic events we explore quotes in the Quotebank dataset from 2015 to 2020. In order to augment our data, we have fetched tweets related to #MeToo from the public twitter API and integrated them with previously extracted tweets on MeToo.
+
 
 <img src="assets/img/Leo-Twitter-1.gif" width="350" class="center"/>
 
