@@ -158,19 +158,7 @@ After a dip during Christmas due to the reduction of people releasing quotes, we
 
 | Distribution of non-traumatic events impacts | Top10 most impactful events |
 |:------:|:------:|
-|<img src="assets/img/Impact_non_traumatic.png" width = "400" > | <img src="assets/img/top10.png" width = "400" >|
-
-NIQUE SA MERE LA PUTE
-
-| Top6 | Name | Date | Impact Measurement |
-|:------:|:------:|:------:|:------:|
-|1   | Weinstein fired by the Weinstein company | 2017-10-08 |  43.39|
-|2   | The tale | 2018-09-09 |  29.92|
-|3   | Second Womens March | 2018-01-20 |  5.77 |
-|4   | Promising young women | 2020-01-25 |  4.07|
-|5   | Unbelievable |2019-09-13 |  3.92|
-|6  | The assistant | 2019-10-13|  3.15|
-
+|<img src="assets/img/Impact_non_traumatic.png" width = "400" > | <img src="assets/img/nontraumatic.png" width = "400" >|
 
 
 **Are we able to compare impacts from traumatic VS non-traumatic events ?**
@@ -180,9 +168,10 @@ NIQUE SA MERE LA PUTE
 <img src="assets/img/increase_impact.jpeg" alt="foursquare_logo" width="100" style="float:right"/>
 Quantify the impact of a certain event was calculated based on the difference of number of #metoo quotes before and after the event date, on a window of 7 days. 
 
-Show tweet timeline
+
 Measure the impact of these events and explain how we do so / Compare the impact of both traumatic and non-traumatic event
 
+<img src="assets/img/tweet_timeline_milo.png" width = "400" >
 
 
 
