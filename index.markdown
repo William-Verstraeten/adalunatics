@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Movement Resurrection
-subtitle: What imapcts a Human Rights Movement?
+subtitle: What impacts a Human Rights Movement?
 cover-img: /assets/img/metooimg.png
 use-site-title: true
 ---
@@ -25,7 +25,7 @@ Here are some interesting questions which we’ll dive into:
 1. Can we extract quotes related to MeToo movement or Sexual Harassment in the workplace from Quotebank 2015-2020?
 2. Is there a gender bias in the speakers of quotes related to sexual harassment ?
 3. What is the impact of the traumatic vs non-traumatic events on the MeToo movement, based on quotes and tweets involved in #MeToo?
-4. Can we observe a cancel culture as a ramification of #MeToo movement?
+4. Can we observe cancel culture as a ramification of the #MeToo movement?
 
 <center> <h1>Can we extract quotes related to MeToo movement or Sexual Harassment in the workplace from Quotebank 2015-2020?</h1> </center>
 
@@ -44,8 +44,8 @@ We then extracted all the quotes from quotebank which contained any of these key
 These are samples of the initially extracted quotes.
 <img src="assets/plots/Chapter_1/Sentence_cloud_1_shorter_copy.png" class="center"/>
 
-Using Latent Dirichlet Allocation (LDA) we then assigned a topic to each of the previously extracted quotes. 
-The topics detected by the LDA were very insightful of the content in the quotes extracted so far.
+Some of them do not look quite right, as we included some general keywords in our selection. We set out to refine our sample: using Latent Dirichlet Allocation (LDA) we assigned a topic to each of the previously extracted quotes. 
+The topics detected by the LDA were very insightful of the content of the quotes extracted so far.
 
 We could interpret them as  
 1. **Women Empowerment** 👩 
@@ -55,8 +55,9 @@ We could interpret them as
 <img src="assets/plots/Chapter_1/ldatopics.png" class="center"/>
 
 
-The second topic was further investigated by adding another LDA layer and filter more. Then, we applied a PCA to see the clustering of the latest topics generated.
-The plot below shows a subsample of the extracted quotes before filtering them based on topic a second time. 
+The second topic seems to be more like our target. It was further investigated by adding another LDA layer to filter it more. Then, we applied a PCA to explore the clustering of the latest topics generated.
+The plot below shows a subsample of the first 2 PCA dimensions of the extracted quotes before filtering them based on topic a second time.
+(You can read the quote itself by hovering the datapoint on the plot!)
 {% include plots/PCA_600K_good_size_no_colour.html %}
 
 By labeling the quotes with the latest topics of the final LDA we could see the clusters of different topics that are overlapping.
@@ -70,20 +71,18 @@ The clusters could be interpreted as
 
 
 
-By taking a closer look we notice that the quotes linked to the third topic, in green, do indeed refer to sexual harassment. (You can see the quote itself by hovering the datapoint on the plot!)
+By taking a closer look we notice that the quotes linked to the third topic, in green, do indeed refer to sexual harassment. 
 Now that we have succesfully isolated these quotes we can start our analysis!
 
 
-
-Study the time distribution of these quotes
-
+The timeline of the counts of these quotes can be firstly observed on a monthly resolution to get an idea of the trends. It is evident that apart from a few early dips due to missing data the baseline increased significantly at the end of 2017, when the MeToo movement first became well known, sparking an increased conversation about sexual harassment. We can already see some sharp increases over the overall trend, which will be investigated further while examining events' impacts.
 
 
 <img src="assets/img/timeline.png" class="center"/>
 
 <center> <h1>Is there a gender bias in the speakers of quotes related to sexual harassment?</h1> </center>
  
-We were interested in the gender bias in Quotebank 2015-2020 and in the dataset of #metoo quotes. We hypothesised that there would be more quotes from male than female and others in Quotebank and were wondering whether this trend would remain in the #MeToo quotes dataset. 
+Given the inherently gendered nature of sexual harassment, we were interested in the gender ratio of the quoted people in Quotebank 2015-2020 and in the dataset of #metoo quotes. We hypothesised, due to the gender gap in leadership positions in many public fields, that there would be more quotes from males than females (and others) in Quotebank, and we wondered whether this feature would remain in the #MeToo quotes dataset we isolated. 
 
 
 | Distribution in Quotebank [6M quotes] | Distribution in #MeToo [200k quotes] |
@@ -91,12 +90,14 @@ We were interested in the gender bias in Quotebank 2015-2020 and in the dataset 
 | <img src="assets/img/Gender_6M.png" width="300" > | <img src="assets/img/Gender_200K_white.png" width="300" > |
 
 
+We can observe that there is indeed a gender bias in the Quotebank dataset. It is also clear that this ratio is reversed when dealing with the filtered data, which highlights how women have been the driving force behind the #MeToo rise. 
+This fact even lead to the creation of a countermovement, #HimToo, a hashtag first focused on harassment on men but then redirected towards the apparent ease with which men could suffer negative consequences after being falsely accused (Boyle, Rathnayake, 2019). The time required for the legal process to actually settle the truth of accusations is most of the times too long and the career of the accused men, even if acquitted, can suffer. The Quotebank dataset gave us the means to find out how people were silenced, or cancelled, after an accusation.
 
-We can observe that the proportion of quotes from male drastically decreases in the  #MeToo quotes dataset, which confirms that there is indeed a general bias towards males which is reversed in the #MeToo movement and proves that women are more involved in the movement.
+Boyle, K. and Rathnayake, C., 2019. #HimToo and the networking of misogyny in the age of #MeToo. Feminist Media Studies, 20(8), pp.1259-1277.
 
 
 ---------
-<center> <h1>Which events are responsible for the growth of the metoo movement ?</h1> </center>
+<center> <h1>Which events are responsible for the growth of the MeToo movement ?</h1> </center>
 
 |<img src="assets/img/accused_people.gif" class="center"/>|
 |:--:| 
@@ -138,7 +139,7 @@ Measure the impact of these events and explain how we do so / Compare the impact
 
 
 
-<center> <h1>Can we observe a cancel culture as a ramification of #MeToo movement?</h1> </center>
+<center> <h1>Can we observe cancel culture as a ramification of the #MeToo movement?</h1> </center>
 
 With more than 2.4 million posts under the “#MeToo” hashtag on Instagram in 2020, the movement has a very prominent position in the media (Instagram, 2020). Whilst the movements prevalence in media promotes a supporting and positive environment for individuals or victims who choose to come out with their sexual violence stories , this reflection discusses how the #MeToo movement has inadvertently encouraged toxicity on social media in the form of cancel culture. This toxic public discourse, cancel culture, is shown in prominent cases in media such as the example of Johnny Depp versus Amber Heard sexual and domestic violence allegations (ABC News, 2019). In which Johnny Depp was accused of sexual and domestic violence in 2016, resulting in him being “cancelled”. This included being dropped from his role in the Pirates of the Caribbean. We wanted to be investigate this phenomenon using the Quotebank dataset.
 
