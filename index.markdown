@@ -185,5 +185,5 @@ Secondly, another t-test has been assessed between the normalized means of the c
 ----------
 
 **Conclusion**
-
+<img src="assets/img/conclusion.gif" width="300" class="right"/>
 Based on the analysis performed, we strongly believe that non-traumatic events have observable impact on reviving the MeToo movement, which proves that we don’t need to wait for people to suffer or struggle in order to educate others and raise awareness. Media has an important role in impacting and shifting optics since it is related to most non-traumatic events. This analysis is a minor version of a potential extended and detailed project that could scrape all newspapers’ websites, social media interactions,...etc to get a much deeper understanding of the main factors affecting any human rights movement.
