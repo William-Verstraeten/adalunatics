@@ -90,22 +90,6 @@ The timeline of the counts of these quotes can be firstly observed on a monthly 
 
 -----------------
 
-<center> <h1>Is there a gender bias in the speakers of quotes related to sexual harassment?</h1> </center>
- 
-Given the inherently gendered nature of sexual harassment, we were interested in the gender ratio of the quoted people in Quotebank 2015-2020 and in the dataset of #MeToo quotes. We hypothesised, due to the gender gap in leadership positions in many public fields, that there would be more quotes from males than females (and others) in Quotebank, and we wondered whether this feature would remain in the #MeToo quotes dataset we isolated. 
-
-| Distribution in Quotebank [6M quotes] | Distribution in #MeToo [200k quotes] |
-|:------:|:------:|
-| <img src="assets/img/Gender_6M.png" width="300" > | <img src="assets/img/Gender_200K_white.png" width="300" > |
-
-We can observe that there is indeed a gender bias in the Quotebank dataset. It is also clear that this ratio is reversed when dealing with the filtered data, which highlights how women have been the driving force behind the #MeToo rise. 
-This fact even lead to the creation of a countermovement, #HimToo, a hashtag first focused on harassment on men but then redirected towards the apparent ease with which men could suffer negative consequences after being falsely accused (Boyle, Rathnayake, 2019). The time required for the legal process to actually settle the truth of accusations is most of the times too long and the career of the accused men, even if acquitted, can suffer. The Quotebank dataset gave us the means to find out how people were silenced, or cancelled, after an accusation.
-
-Boyle, K. and Rathnayake, C., 2019. #HimToo and the networking of misogyny in the age of #MeToo. Feminist Media Studies, 20(8), pp.1259-1277.
-
-
------------------
-
 <center> <h1>Which events are responsible for the growth of the MeToo movement ?</h1> </center>
 
 |<img src="assets/img/accused_people.gif" class="center"/>|
@@ -175,6 +159,21 @@ The tweets dataset related to MeToo were processed in a similar way to obtain a 
 None of the events analysed seem to directly impact the subsequent wave: by closely examining them one stands out. It is widely believed (Darwish, 2019) that the revival of #MeToo in september and october 2018 was due to the accusations levelled towards Brett Kavanagh, made public on Sep. 16, which sparked an FBI investigation after widely covered hearings with the judiciary committee. On October 6th Kavanagh would go on to be confirmed by the senate in a polarized debate. The entire story lasted for weeks, becoming the main topic in the news and the subsequent online conversation on #MeToo would then peak and slowly return to baseline levels.
 
 *Darwish, K. (2019). Quantifying Polarization on Twitter: The Kavanaugh Nomination. ArXiv, abs/2001.02125.*
+
+-----------------
+
+<center> <h1>Is there a gender bias in the speakers of quotes related to sexual harassment?</h1> </center>
+ 
+Given the inherently gendered nature of sexual harassment, we were interested in the gender ratio of the quoted people in Quotebank 2015-2020 and in the dataset of #MeToo quotes. We hypothesised, due to the gender gap in leadership positions in many public fields, that there would be more quotes from males than females (and others) in Quotebank, and we wondered whether this feature would remain in the #MeToo quotes dataset we isolated. 
+
+| Distribution in Quotebank [6M quotes] | Distribution in #MeToo [200k quotes] |
+|:------:|:------:|
+| <img src="assets/img/Gender_6M.png" width="300" > | <img src="assets/img/Gender_200K_white.png" width="300" > |
+
+We can observe that there is indeed a gender bias in the Quotebank dataset. It is also clear that this ratio is reversed when dealing with the filtered data, which highlights how women have been the driving force behind the #MeToo rise. 
+This fact even lead to the creation of a countermovement, #HimToo, a hashtag first focused on harassment on men but then redirected towards the apparent ease with which men could suffer negative consequences after being falsely accused (Boyle, Rathnayake, 2019). The time required for the legal process to actually settle the truth of accusations is most of the times too long and the career of the accused men, even if acquitted, can suffer. The Quotebank dataset gave us the means to find out how people were silenced, or cancelled, after an accusation.
+
+*Boyle, K. and Rathnayake, C., 2019. #HimToo and the networking of misogyny in the age of #MeToo. Feminist Media Studies, 20(8), pp.1259-1277.*
 
 -----------------
 
