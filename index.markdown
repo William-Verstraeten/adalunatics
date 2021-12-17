@@ -148,7 +148,20 @@ After a dip during Christmas due to the reduction of people releasing quotes, we
 <img src="assets/img/increase_impact.jpeg" alt="foursquare_logo" width="100" style="float:right"/>
 Quantify the impact of a certain event was calculated based on the difference of number of #metoo quotes before and after the event date, on a window of 7 days. 
 
-<center> <h1> to do </h1> </center>
+
+| Top10 | Name | Conviction Date | Impact measurements |
+|:------:|:------:|:------:|:------:|
+| 1 | Ben Vereen | 2018-01-05 | 84.15 |
+| 1 | Paul Haggis | 2018-01-05 | 84.15 |
+| 1 | Kevin Braun | 2018-01-05 | 84.15 |
+| 1 | Jeremy Tooker | 2018-01-05 | 84.15 |
+| 1 | Andy Savage | 2018-01-05 | 84.15 |
+| 6 | Steve Butts | 2018-01-03 | 76.15 |
+| 7 | Albert Schultz | 2018-01-03 | 76 |
+| 8 | Dan Harmon | 2018-01-02 | 76 |
+| 9 | H. Brandt Ayers | 2018-01-01 | 57.30 |
+| 10 | Stan lee | 2018-01-09 | 56.46 |
+
 Show tweet timeline
 Measure the impact of these events and explain how we do so / Compare the impact of both traumatic and non-traumatic event
 
