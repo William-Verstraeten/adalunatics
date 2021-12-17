@@ -160,15 +160,16 @@ After a dip during Christmas due to the reduction of people releasing quotes, we
 |:------:|:------:|
 |<img src="assets/img/Impact_non_traumatic.png" width = "400" > | <img src="assets/img/top10.png" width = "400" >|
 
+NIQUE SA MERE LA PUTE
 
 | Top6 | Name | Date | Impact Measurement |
 |:------:|:------:|:------:|:------:|
-|1  | Weinstein fired by the Weinstein company | 2017-10-08 |  43.39|
-|2   | Netta’s song “Toy” won Eurovision | 2018-05-12 |  29.92|
-|3   | The assistant | 2019-10-13 |  5.77 |
-|4   | Bombschell | 2019-12-13 |  4.07|
-|5   | Emma Watson appears with TimesUp tatoo | 2018-05-05 |  3.92|
-|6  | Actress Asia Argento gives porwerfull speech against Weinstein at Cannes Festival | 2018-05-19|  3.15|
+|1   | Weinstein fired by the Weinstein company | 2017-10-08 |  43.39|
+|2   | The tale | 2018-09-09 |  29.92|
+|3   | Second Womens March | 2018-01-20 |  5.77 |
+|4   | Promising young women | 2020-01-25 |  4.07|
+|5   | Unbelievable |2019-09-13 |  3.92|
+|6  | The assistant | 2019-10-13|  3.15|
 
 
 
