@@ -32,7 +32,7 @@ Here are some interesting questions which we’ll dive into:
 We investigated the quotes in Quotebank throughout the years from 2015 to 2020 and we found a total of **115,584,251** quotes.
 <img src="assets/plots/Chapter_1/quotes_years.png" class="center"/>
 
-From the extracted quotes, we got the most frequent words co-occurring with MeToo, shown in the word cloud below. We validated our results with a word cloud from a MeToo search on [Media Cloud](https://mediacloud.org/), a news gathering website, to confirm that our sample is representative of the movement.
+From these quotes, we extracted the words most most frequently co-occurring with MeToo, shown in the word cloud below. We validated our results with a word cloud from a MeToo search on [Media Cloud](https://mediacloud.org/), a news gathering website, to confirm that our sample is representative of the movement.
 
 | Our Quotes 😎| Media Cloud 📹|
 |:------:|:------:|
@@ -40,9 +40,11 @@ From the extracted quotes, we got the most frequent words co-occurring with MeTo
 
 <img src="assets/plots/Chapter_1/Keywords.png" width="800" height="500" class="center"/>
 
+We then extracted all the quotes from quotebank which contained any of these keywords.
 These are samples of the initially extracted quotes.
 <img src="assets/plots/Chapter_1/Sentence_cloud_1_shorter_copy.png" class="center"/>
 
+Using Latent Dirichlet Allocation (LDA) we then assigned a topic to each of the previously extracted quotes. 
 The topics detected by the LDA were very insightful of the content in the quotes extracted so far.
 
 We could interpret them as  
@@ -52,7 +54,9 @@ We could interpret them as
 4. **Christmassy** 🎄
 <img src="assets/plots/Chapter_1/ldatopics.png" class="center"/>
 
+
 The second topic was further investigated by adding another LDA layer and filter more. Then, we applied a PCA to see the clustering of the latest topics generated.
+The plot below shows a subsample of the extracted quotes before filtering them based on topic a second time. 
 {% include plots/PCA_600K_good_size_no_colour.html %}
 
 By labeling the quotes with the latest topics of the final LDA we could see the clusters of different topics that are overlapping.
@@ -66,12 +70,8 @@ The clusters could be interpreted as
 
 
 
-
-
-
-**How can we incorporate the twitter dataset in this ?**
-
-
+By taking a closer look we notice that these quotes do indeed refer to sexual harassment!
+Now that we have succesfully isolated these quotes we can start our analysis!
 
 
 
