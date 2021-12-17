@@ -210,8 +210,9 @@ Secondly, another t-test has been assessed between the normalized means of the c
 
 
 ----------
+<center> <h1>Conclusion </h1> </center>
 
-**Conclusion**
+
 
 <img src="assets/img/metooimg.png" alt="foursquare_logo" width="210" style="float:right"/>
 Based on the analysis performed, we strongly believe that non-traumatic events have observable impact on reviving the MeToo movement, which proves that we don’t need to wait for people to suffer or struggle in order to educate others and raise awareness. Media has an important role in impacting and shifting optics since it is related to most non-traumatic events. This analysis is a minor version of a potential extended and detailed project that could scrape all newspapers’ websites, social media interactions,...etc to get a much deeper understanding of the main factors affecting any human rights movement. Nonetheless, the Quotebank dataset is a powerful proxy of public discussion and is uniquely suited to analyse for example how much people are able to reach the wider public or not, as we did with cancel culture.
