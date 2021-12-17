@@ -148,7 +148,7 @@ Upon further investigation we notice that the first wave in October 2017 corresp
 Interstingly the second wave is not only linked to events directly linked to metoo but happened at the same time as the birth of many other social movements inspired by metoo: #SilenceIsNotSpiritual, MeTooK12 and the discussion of the ME TOO bill in U.S. Congress. 
 
 
-{% include plots/cropped_1_titles.html %}
+{% include plots/cropped_traumatic_final.html %}
 
 **What is the impact of non-traumatic events ?**
 Now lets take a look at the non-traumatic events!
@@ -167,7 +167,8 @@ After a dip during Christmas due to the reduction of people releasing quotes, we
 
 **Are we able to compare impacts from traumatic VS non-traumatic events ?**
 
-{% include plots/Cropped_with_bombshell.html %}
+{% include plots/cropped_non_traumatic_final.html %}
+
 
 <img src="assets/img/increase_impact.jpeg" alt="foursquare_logo" width="100" style="float:right"/>
 Quantify the impact of a certain event was calculated based on the difference of number of #metoo quotes before and after the event date, on a window of 7 days. 
