@@ -15,9 +15,11 @@ Human Rights’ movements tend to experience surges in pupularity after emotiona
 This data story focuses on the MeToo movement and in general about the topic of sexual harassment. We probe the media discourse and public opinion to gain insights about events and biases that characterize this discussion.
 
 <center> <h1>How to Tackle this Problem?</h1> </center>
-<img src="assets/img/quotebank.png" alt="foursquare_logo" width="200" style="float:right"/> 
-In order to explore the public perception of the MeToo movement and investigate the impact of traumatic/non-traumatic events we explore quotes in the Quotebank dataset from 2015 to 2020. In order to augment our data, we have fetched tweets related to #MeToo from the public twitter API and integrated them with previously extracted tweets on MeToo.
-<img src="assets/img/Leo-Twitter-1.gif" width="200" style="float:right"/>
+<img src="assets/img/quotebank.png" alt="foursquare_logo" width="150" style="float:right"/> 
+In order to explore the public perception of the MeToo movement and investigate the impact of traumatic/non-traumatic events we explore quotes in the Quotebank dataset from 2015 to 2020. 
+
+<img src="assets/img/Leo-Twitter-1.gif" width="150" style="float:right"/>
+In order to augment our data, we have fetched tweets related to #MeToo from the public twitter API and integrated them with previously extracted tweets on MeToo.
 
 
 
@@ -110,13 +112,14 @@ Boyle, K. and Rathnayake, C., 2019. #HimToo and the networking of misogyny in th
 |:--:| 
 | *Names of Celebrities, Politicians and CEOs accused of Sexual Misconduct* |
 
-<img src="assets/img/webscraping.gif" alt="foursquare_logo" width="200" style="float:left"/>
+<img src="assets/img/webscraping.gif" alt="foursquare_logo" width="150" style="float:left"/>
 Over the years the #MeToo movement has been marked by a few key traumatic events which lead to a sharp increase in its popularity. We were interested in the impact of some events on the MeToo movement. In other words, whether trends in the #MeToo timeline were temporally linked to some events. 
 Thus, we gathered a dataset of traumatic events, itemising events related to the core issue of sexual harassment: the allegations by victims. The main source is a [Vox article](https://www.vox.com/a/sexual-harassment-assault-allegations-list/asia-argento) listing more than 250 public figures which were accused of sexual harassment between 2017 and 2019. Accordingly, we scraped this website to compile the needed data.
 
-<img src="assets/img/untouchable.jpg" alt="foursquare_logo" width="150" style="float:right"/>
+<img src="assets/img/untouchable.jpg" alt="foursquare_logo" width="100" style="float:right"/>
 In parallel, we manually assembled a dataset of non-traumatic events found by original research. We chose events which are not related to the core issue of sexual harassment and consequences, such as movie releases, publications, demonstrations, and others related to MeToo in the same time period as above. 
 We assume the number of quotes related to MeToo each day to be a proxy of the attention to the topic. 
+
 
 <img src="assets/img/increase_impact.jpeg" alt="foursquare_logo" width="100" style="float:right"/>
 **Quantify the impact** : We plan to measure the impact of each event as the before-after difference in public attention, and use this measure to investigate and compare traumatic vs non traumatic events. This in practice is done by taking the average of the number of quotes 2 weeks before and after the date of the event, in order to identify the trend to which the event belongs.
