@@ -6,9 +6,9 @@ cover-img: /assets/img/metooimg.png
 use-site-title: true
 ---
 
-<center> <h1>How Long Should We Wait for People to TALK?</h1> </center>
+<center> <h1>How Many People Should Suffer Before We TALK about it?</h1> </center>
 
-Human rights’ movements tend to get resurrected after a traumatic event. One such example is the Black Lives Matter movement which was founded in 2013 and was revived in 2020 after George Floyd’s death. However, other benign (non-traumatic) events can also be a catalyst for these movements, for instance the movie Bombshell was released in 2019 and reopened a conversation about workplace sexual harassment (#MeToo) that was first made famous in 2017.
+Human Rights’ movements tend to get resurrected after a traumatic event. One such example is the Black Lives Matter movement which was founded in 2013 and was revived in 2020 after George Floyd’s death. However, other benign (non-traumatic) events can also be a catalyst for these movements, for instance the movie Bombshell was released in 2019 and reopened a conversation about workplace sexual harassment (#MeToo) that was first made famous in 2017.
 <img src="assets/img/turanaburke.jpg" class="center"/>
 ---
 
