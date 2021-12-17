@@ -84,6 +84,8 @@ The clusters could be interpreted as
 By taking a closer look we notice that the quotes linked to the third topic, in green, do indeed refer to sexual harassment. 
 Now that we have succesfully isolated these quotes we can start our analysis!
 
+(As a sidenote: notice how the outermost post at the top refers to a quote by Bill Clinton: "I did not have sexual relations with that page", was correctly labeled as a quote on politics and not sexual harasment even though the LDA algorithm did not have access to any information related to the speaker!)
+
 
 The timeline of the counts of these quotes can be firstly observed on a monthly resolution to get an idea of the trends. It is evident that apart from a few early dips due to missing data the baseline increased significantly at the end of 2017, when the MeToo movement first became well known, sparking an increased conversation about sexual harassment. We can already see some sharp increases over the overall trend, which will be investigated further while examining events' impacts.
 
