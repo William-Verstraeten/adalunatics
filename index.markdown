@@ -27,8 +27,8 @@ In order to augment our data, we have fetched tweets related to #MeToo from the 
 <center> <h1>Research questions : </h1> </center>
 
 1. Can we extract quotes related to MeToo movement or Sexual Harassment in the workplace from Quotebank 2015-2020?
-2. Is there a gender bias in the speakers of quotes related to sexual harassment ?
-3. What is the impact of the traumatic vs non-traumatic events on the MeToo movement, based on quotes and tweets involved in #MeToo?
+2. What is the impact of the traumatic vs non-traumatic events on the MeToo movement, based on quotes and tweets involved in #MeToo?
+3. Is there a gender bias in the speakers of quotes related to sexual harassment ?
 4. Can we observe cancel culture as a ramification of the #MeToo movement?
 
 
