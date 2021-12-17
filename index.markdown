@@ -23,7 +23,7 @@ In order to explore the public perception of the MeToo movement and investigate 
 In order to augment our data, we have fetched tweets related to #MeToo from the public twitter API and integrated them with previously extracted tweets on MeToo.
 
 
-
+<br />
 <center> <h1>Research questions : </h1> </center>
 
 1. Can we extract quotes related to the MeToo movement or Sexual Harassment in the workplace from Quotebank 2015-2020?
