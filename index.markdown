@@ -94,6 +94,7 @@ The timeline of the counts of these quotes can be firstly observed on a monthly 
 <img src="assets/img/timeline_cropped.png" class="center"/>
 
 
+-----------------
 
 <center> <h1>Is there a gender bias in the speakers of quotes related to sexual harassment?</h1> </center>
  
