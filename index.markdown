@@ -123,7 +123,7 @@ Now that we have our traumatic events we can measure their impact on the number 
 <img src="assets/img/Impact_traumatic.png" width = "400px" class="center"/>
 
 
-When studying the 15 most impactful events we notice that these belong to the 2 main waves of accusations, indicating that these waves of accusations are indeed related to an incease in quotes related to sexual harassment. (Dear reader, you can check who was convicted at which moment directly on the timeline!) 
+When studying the 10 most impactful events we notice that these belong to the 2 main waves of accusations, indicating that these waves of accusations are indeed related to an incease in quotes related to sexual harassment. (Dear reader, you can check who was convicted at which moment directly on the timeline!) 
 
 Upon further investigation we notice that the first wave in October 2017 corresponds to the moment in which the #metoo went viral for the first time. 
 Interstingly the second wave is not only linked to events directly linked to metoo but happened at the same time as the birth of many other social movements inspired by metoo: #SilenceIsNotSpiritual, MeTooK12 and the discussion of the ME TOO bill in U.S. Congress. 
@@ -139,7 +139,12 @@ This plot displays the timeline of #metoo quotes and the top 10 most impactful n
 
 It is clear that our impact measure detected two main waves in the public attention. The first which rises above the baseline is in October 2017, which is the moment in which the hashtag went viral for the first time  
 After a dip during Christmas due to the reduction of people releasing quotes, we can witness another large wave in January 2018. 
-<img src="assets/img/Impact_non_traumatic.png" width = "400px" class="center"/>
+
+
+| Distribution of events impacts | Top10 most impactful events |
+|:------:|:------:|
+|<img src="assets/img/Impact_non_traumatic.png" width = "400" > | <img src="assets/img/top10.png" width = "400" >|
+
 
 **Are we able to compare impacts from traumatic VS non-traumatic events ?**
 
