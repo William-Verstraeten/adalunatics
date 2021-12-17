@@ -118,8 +118,9 @@ Boyle, K. and Rathnayake, C., 2019. #HimToo and the networking of misogyny in th
 | *Names of Celebrities, Politicians and CEOs accused of Sexual Misconduct* |
 
 
+
 Over the years the #MeToo movement has been marked by a few key traumatic events which lead to a sharp increase in its popularity. We were interested in the impact of some events on the metoo movement. In other words, whether trends in the #metoo timeline were temporally linked to some events. 
-Thus, we gathered a dataset of traumatic events, itemising events related to the core issue of sexual harassment: the allegations by victims. The main source is a Vox article listing more than 250 public figures which were accused of sexual harassment between 2017 and 2019.
+Thus, we gathered a dataset of traumatic events, itemising events related to the core issue of sexual harassment: the allegations by victims. The main source is a [Vox article](https://www.vox.com/a/sexual-harassment-assault-allegations-list/asia-argento) listing more than 250 public figures which were accused of sexual harassment between 2017 and 2019.
 
 <img src="assets/img/untouchable.jpg" alt="foursquare_logo" width="150" style="float:right"/>
 In parallel, we manually fabricated a dataset of non-traumatic events found by original research. We chose events which are not related to the core issue of sexual harassment and consequences, such as movie releases, publications, demonstrations, and others related to MeToo in the same time period as above. 
@@ -131,7 +132,7 @@ This plot displays the timeline of extracted quotes involved with the #metoo mov
 
 Now that we have our traumatic events we can measure their impact on the number of quotes related to sexual harassment.
 
-| Distribution of traumatic events impacts | Top10 most impactful events |
+| Distribution of traumatic events impacts | Top 10 most impactful events 💥|
 |:------:|:------:|
 |<img src="assets/img/Impact_traumatic.png" width = "400px" class="center"/>| <img src="assets/img/top10.png" width = "400" >|
 
