@@ -8,7 +8,7 @@ use-site-title: true
 
 <center> <h1>How Many People Should Suffer Before We TALK about it?</h1> </center>
 
-Human Rights’ movements tend to experience surges in pupularity after emotionally intense, or traumatic, events. One such example is Black Lives Matter, which was founded in 2013 and was revived in 2020 after George Floyd’s death. Other benign (non-traumatic) events can also be catalysts for these movements: another example is the movie Bombshell, which was released in 2019 and reopened the conversation about workplace sexual harassment (#MeToo) that was first made famous in 2017.
+<div style="text-align: right">Human Rights’ movements tend to experience surges in pupularity after emotionally intense, or traumatic, events. One such example is Black Lives Matter, which was founded in 2013 and was revived in 2020 after George Floyd’s death. Other benign (non-traumatic) events can also be catalysts for these movements: another example is the movie Bombshell, which was released in 2019 and reopened the conversation about workplace sexual harassment (#MeToo) that was first made famous in 2017.</div>
 <img src="assets/img/turanaburke.jpg" class="center"/>
 ---
 
@@ -84,7 +84,7 @@ Now that we have succesfully isolated these quotes we can start our analysis!
 
 (As a sidenote: notice how the outermost post at the top refers to a quote by Bill Clinton: "I did not have sexual relations with that page", which was correctly labeled as a quote on politics and not sexual harasment even though the LDA algorithm did not have access to any information related to the speaker!)
 
-The timeline of the counts of these quotes can be firstly observed on a monthly resolution to get an idea of the trends. It is evident that apart from a few early dips due to missing data the baseline increased significantly at the end of 2017, when the MeToo movement first became well known, sparking an increased conversation about sexual harassment. We can already see some sharp increases over the overall trend, which will be investigated further while examining events' impacts.
+<div style="text-align: right">The timeline of the counts of these quotes can be firstly observed on a monthly resolution to get an idea of the trends. It is evident that apart from a few early dips due to missing data the baseline increased significantly at the end of 2017, when the MeToo movement first became well known, sparking an increased conversation about sexual harassment. We can already see some sharp increases over the overall trend, which will be investigated further while examining events' impacts</div>
 
 <img src="assets/img/timeline_cropped.png" class="center"/>
 
@@ -97,12 +97,12 @@ The timeline of the counts of these quotes can be firstly observed on a monthly 
 | *Names of Celebrities, Politicians and CEOs accused of Sexual Misconduct* |
 
 <img src="assets/img/webscraping.gif" alt="foursquare_logo" width="150" style="float:left"/>
-Over the years the #MeToo movement has been marked by a few key traumatic events which lead to a sharp increase in its popularity. We were interested in the impact of some events on the MeToo movement. In other words, whether trends in the #MeToo timeline were temporally linked to some events. 
-Thus, we gathered a dataset of traumatic events, itemising events related to the core issue of sexual harassment: the allegations by victims. The main source is a [Vox article](https://www.vox.com/a/sexual-harassment-assault-allegations-list/asia-argento) listing more than 250 public figures which were accused of sexual harassment between 2017 and 2019. Accordingly, we scraped this website to compile the needed data.
+<div style="text-align: right">Over the years the #MeToo movement has been marked by a few key traumatic events which lead to a sharp increase in its popularity. We were interested in the impact of some events on the MeToo movement. In other words, whether trends in the #MeToo timeline were temporally linked to some events. 
+Thus, we gathered a dataset of traumatic events, itemising events related to the core issue of sexual harassment: the allegations by victims. The main source is a [Vox article](https://www.vox.com/a/sexual-harassment-assault-allegations-list/asia-argento) listing more than 250 public figures which were accused of sexual harassment between 2017 and 2019. Accordingly, we scraped this website to compile the needed data.</div>
 
 <img src="assets/img/untouchable.jpg" alt="foursquare_logo" width="100" style="float:right"/>
-In parallel, we manually assembled a dataset of non-traumatic events found by original research. We chose events which are not related to the core issue of sexual harassment and consequences, such as movie releases, publications, demonstrations, and others related to MeToo in the same time period as above. 
-We assume the number of quotes related to MeToo each day to be a proxy of the attention to the topic. 
+<div style="text-align: right">In parallel, we manually assembled a dataset of non-traumatic events found by original research. We chose events which are not related to the core issue of sexual harassment and consequences, such as movie releases, publications, demonstrations, and others related to MeToo in the same time period as above. 
+We assume the number of quotes related to MeToo each day to be a proxy of the attention to the topic.</div>
 
 
 <img src="assets/img/increase_impact.jpeg" alt="foursquare_logo" width="100" style="float:right"/>
