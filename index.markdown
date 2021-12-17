@@ -166,12 +166,12 @@ After a dip during Christmas due to the reduction of people releasing quotes, we
 {% include plots/Cropped_with_bombshell.html %}
 
 <img src="assets/img/increase_impact.jpeg" alt="foursquare_logo" width="100" style="float:right"/>
-*Quantify the impact* of a certain event was calculated based on the difference of number of #metoo quotes before and after the event date, on a window of 7 days. 
+Quantify the impact*of a certain event was calculated based on the difference of number of #metoo quotes before and after the event date, on a window of 7 days. 
 
 
 Measure the impact of these events and explain how we do so / Compare the impact of both traumatic and non-traumatic event
 
-<img src="assets/img/tweet_timeline_milo.jpeg" width = "400" >
+<img src="assets/img/tweet_timeline_milo.jpeg" width = "600" class="center"/>
 
 
 
