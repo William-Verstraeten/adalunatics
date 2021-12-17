@@ -16,7 +16,7 @@ author: ADALunatics
 navbar-links:
   Resources:
     - The dataset: "https://zenodo.org/record/4277311#.YbC4_dCZNPY"
-    - Twitter API: ""
+    - Twitter API: "https://developer.twitter.com/en/docs/twitter-api"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
