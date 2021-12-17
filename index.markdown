@@ -46,8 +46,6 @@ From these quotes, we extracted the words most most frequently co-occurring with
 |:------:|:------:|
 |<img src="assets/plots/Chapter_1/Wordcloud.png" width="350" class="left"/> | <img src="assets/plots/Chapter_1/media_cloud.jpeg" width="350" height="350" class="left"/>|
 
-<img src="assets/plots/Chapter_1/Keywords.png" width="800" height="500" class="center"/>
-
 We then extracted all the quotes from quotebank which contained any of these keywords.
 These are samples of the initially extracted quotes.
 <img src="assets/plots/Chapter_1/Sentence_cloud_1_shorter_copy.png" class="center"/>
