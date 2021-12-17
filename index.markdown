@@ -123,7 +123,7 @@ Over the years the #MeToo movement has been marked by a few key traumatic events
 Thus, we gathered a dataset of traumatic events, itemising events related to the core issue of sexual harassment: the allegations by victims. The main source is a [Vox article](https://www.vox.com/a/sexual-harassment-assault-allegations-list/asia-argento) listing more than 250 public figures which were accused of sexual harassment between 2017 and 2019. Accordingly, we scraped this website to compile the needed data.
 
 <img src="assets/img/untouchable.jpg" alt="foursquare_logo" width="150" style="float:right"/>
-In parallel, we manually fabricated a dataset of non-traumatic events found by original research. We chose events which are not related to the core issue of sexual harassment and consequences, such as movie releases, publications, demonstrations, and others related to MeToo in the same time period as above. 
+In parallel, we manually assembled a dataset of non-traumatic events found by original research. We chose events which are not related to the core issue of sexual harassment and consequences, such as movie releases, publications, demonstrations, and others related to MeToo in the same time period as above. 
 We assume the number of quotes related to MeToo each day to be a proxy of the attention to the topic. We plan to measure the impact of each event as the before-after difference in public attention, and use this measure to investigate and compare traumatic vs non traumatic events.
 
 **What is the impact of traumatic events ?**
