@@ -24,10 +24,8 @@ In order to augment our data, we have fetched tweets related to #MeToo from the 
 
 
 
+<center> <h1>Research questions : </h1> </center>
 
-**GOAL :**
-
-Here are some interesting questions which we’ll dive into:
 1. Can we extract quotes related to MeToo movement or Sexual Harassment in the workplace from Quotebank 2015-2020?
 2. Is there a gender bias in the speakers of quotes related to sexual harassment ?
 3. What is the impact of the traumatic vs non-traumatic events on the MeToo movement, based on quotes and tweets involved in #MeToo?
@@ -163,8 +161,8 @@ After a dip during Christmas due to the reduction of people releasing quotes, we
 
 **Are we able to compare impacts from traumatic VS non-traumatic events ?**
 
-The impact measure we obtained is higher for the traumatic events that happened to be before the aforementioned waves. It appears then that the movement was fueled by clusters of accusations. These probably also influenced one another by providing the motivation to come forward to the victims. 
-Non traumatic events are more scattered and therefore had less impact on the timeline we analysed.
+The impact measure we obtained is higher for the traumatic events before the aforementioned waves. It appears then that the movement was fueled by clusters of accusations. These probably also influenced one another by providing motivation to come forward to the victims. 
+Non traumatic events are more scattered and therefore had less impact on the timeline we analysed. In addition, some non-traumatic events can be considered consequences of traumatic events. One good example is the firing of Harvey Weistein, which is the most impactful out of the non-traumatics.
 
 {% include plots/cropped_non_traumatic_final.html %}
 
