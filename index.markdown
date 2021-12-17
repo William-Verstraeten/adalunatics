@@ -15,15 +15,15 @@ Human Rights’ movements tend to experience surges in pupularity after emotiona
 This data story focuses on the MeToo movement and in general about the topic of sexual harassment. We probe the media discourse and public opinion to gain insights about events and biases that characterize this discussion.
 
 <center> <h1>How to Tackle this Problem?</h1> </center>
-<img src="assets/img/quotebank.png" alt="foursquare_logo" width="210" style="float:right"/>
+<img src="assets/img/quotebank.png" alt="foursquare_logo" width="210" style="float:right"/> 
+<img src="assets/img/Leo-Twitter-1.gif" width="200" style="float:right"/>
 In order to explore the public perception of the MeToo movement and investigate the impact of traumatic/non-traumatic events we explore quotes in the Quotebank dataset from 2015 to 2020. In order to augment our data, we have fetched tweets related to #MeToo from the public twitter API and integrated them with previously extracted tweets on MeToo.
 
-<img src="assets/img/Leo-Twitter-1.gif" width="350" class="center"/>
+
 
 **GOAL :**
 
 Here are some interesting questions which we’ll dive into:
-
 1. Can we extract quotes related to MeToo movement or Sexual Harassment in the workplace from Quotebank 2015-2020?
 2. Is there a gender bias in the speakers of quotes related to sexual harassment ?
 3. What is the impact of the traumatic vs non-traumatic events on the MeToo movement, based on quotes and tweets involved in #MeToo?
@@ -31,6 +31,7 @@ Here are some interesting questions which we’ll dive into:
 
 
 -----------------
+
 
 <center> <h1>Can we extract quotes related to MeToo movement or Sexual Harassment in the workplace from Quotebank 2015-2020?</h1> </center>
 
@@ -114,9 +115,14 @@ Thus, we gathered a dataset of traumatic events, itemising events related to the
 
 <img src="assets/img/untouchable.jpg" alt="foursquare_logo" width="150" style="float:right"/>
 In parallel, we manually assembled a dataset of non-traumatic events found by original research. We chose events which are not related to the core issue of sexual harassment and consequences, such as movie releases, publications, demonstrations, and others related to MeToo in the same time period as above. 
-We assume the number of quotes related to MeToo each day to be a proxy of the attention to the topic. We plan to measure the impact of each event as the before-after difference in public attention, and use this measure to investigate and compare traumatic vs non traumatic events.
+We assume the number of quotes related to MeToo each day to be a proxy of the attention to the topic. 
+
+<img src="assets/img/increase_impact.jpeg" alt="foursquare_logo" width="100" style="float:right"/>
+**Quantify the impact** : We plan to measure the impact of each event as the before-after difference in public attention, and use this measure to investigate and compare traumatic vs non traumatic events. 
+
 
 **What is the impact of traumatic events ?**
+
 <img src="assets/plots/Traumatic_events_timeline.png" class="center"/>
 This plot displays the timeline of extracted quotes involved with the #metoo movement and the timing of the allegations/accusations. We can already observe two huge waves of accusations in the middle of 2017 and early 2018.
 
@@ -133,7 +139,9 @@ Interstingly the second wave is not only linked to events directly linked to met
 
 {% include plots/cropped_traumatic_final.html %}
 
+
 **What is the impact of non-traumatic events ?**
+
 Now lets take a look at the non-traumatic events!
 <img src="assets/plots/Non_Traumatic_events_timeline.png" class="center"/>
 
@@ -154,9 +162,6 @@ Non traumatic events are more scattered and therefore had less impact on the tim
 
 {% include plots/cropped_non_traumatic_final.html %}
 
-<img src="assets/img/increase_impact.jpeg" alt="foursquare_logo" width="100" style="float:right"/>
-Quantify the impact of a certain event was calculated based on the difference of number of #metoo quotes before and after the event date, on a window of 7 days. 
-
 **How does the tweet dataset confirm our results?**
 
 The tweets dataset related to MeToo were processed in a similar way to obtain a timeline. Unfortunately the time covered ranges only from October 2018 to February 2019. We therefore restricted our analysis to the events around this time period.
@@ -166,10 +171,6 @@ The tweets dataset related to MeToo were processed in a similar way to obtain a 
 None of the events analysed seem to directly impact the subsequent wave: by closely examining them one stands out. It is widely believed (Darwish, 2019) that the revival of #MeToo in september and october 2018 was due to the accusations levelled towards Brett Kavanagh, made public on Sep. 16, which sparked an FBI investigation after widely covered hearings with the judiciary committee. On October 6th Kavanagh would go on to be confirmed by the senate in a polarized debate. The entire story lasted for weeks, becoming the main topic in the news and the subsequent online conversation on #metoo would then peak and slowly return to baseline levels.
 
 *Darwish, K. (2019). Quantifying Polarization on Twitter: The Kavanaugh Nomination. ArXiv, abs/2001.02125.*
-
-
-
-
 
 -----------------
 
