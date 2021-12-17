@@ -120,7 +120,7 @@ This plot displays the timeline of extracted quotes involved with the #metoo mov
 
 Now that we have our traumatic events we can measure their impact on the number of quotes related to sexual harassment.
 
-<img src="assets/plots/Impact_traumatic.png" class="center"/>
+<img src="assets/img/Impact_traumatic.png" width = "400px" class="center"/>
 
 
 When studying the 15 most impactful events we notice that these belong to the 2 main waves of accusations, indicating that these waves of accusations are indeed related to an incease in quotes related to sexual harassment. (Dear reader, you can check who was convicted at which moment directly on the timeline!) 
@@ -139,6 +139,7 @@ This plot displays the timeline of #metoo quotes and the top 10 most impactful n
 
 It is clear that our impact measure detected two main waves in the public attention. The first which rises above the baseline is in October 2017, which is the moment in which the hashtag went viral for the first time  
 After a dip during Christmas due to the reduction of people releasing quotes, we can witness another large wave in January 2018. 
+<img src="assets/img/Impact_non_traumatic.png" width = "400px" class="center"/>
 
 **Are we able to compare impacts from traumatic VS non-traumatic events ?**
 
