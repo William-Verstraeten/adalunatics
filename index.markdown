@@ -82,7 +82,7 @@ The clusters could be interpreted as
 By taking a closer look we notice that the quotes linked to the third topic, in green, do indeed refer to sexual harassment. 
 Now that we have succesfully isolated these quotes we can start our analysis!
 
-(As a sidenote: notice how the outermost post at the top refers to a quote by Bill Clinton: "I did not have sexual relations with that page", was correctly labeled as a quote on politics and not sexual harasment even though the LDA algorithm did not have access to any information related to the speaker!)
+(As a sidenote: notice how the outermost post at the top refers to a quote by Bill Clinton: "I did not have sexual relations with that page", which was correctly labeled as a quote on politics and not sexual harasment even though the LDA algorithm did not have access to any information related to the speaker!)
 
 The timeline of the counts of these quotes can be firstly observed on a monthly resolution to get an idea of the trends. It is evident that apart from a few early dips due to missing data the baseline increased significantly at the end of 2017, when the MeToo movement first became well known, sparking an increased conversation about sexual harassment. We can already see some sharp increases over the overall trend, which will be investigated further while examining events' impacts.
 
@@ -120,12 +120,14 @@ Now that we have our traumatic events we can measure their impact on the number 
 |:------:|:------:|
 |<img src="assets/img/Impact_traumatic.png" width = "400px" class="center"/>| <img src="assets/img/top10.png" width = "400" >|
 
-When studying the 10 most impactful events we notice that these belong to the 2 main waves of accusations, indicating that these waves of accusations are indeed related to an incease in quotes related to sexual harassment. (Dear reader, you can check who was convicted at which moment directly on the timeline!) 
 
-Upon further investigation we notice that the first wave in October 2017 corresponds to the moment in which the #MeToo went viral for the first time. 
-Interstingly the second wave is not only linked to events directly linked to MeToo but happened at the same time as the birth of many other social movements inspired by MeToo: #SilenceIsNotSpiritual, MeTooK12 and the discussion of the ME TOO bill in U.S. Congress. 
+
+When ranking the events based on impact we notice that the most impactfulle events belong to the 3 main waves of accusations, indicating that these waves of accusations are indeed related to an incease in quotes related to sexual harassment. (Dear reader, you can check who was accused at which moment directly on the timeline!) 
 
 {% include plots/cropped_traumatic_final.html %}
+
+Upon further investigation we notice that the first wave in October 2017 corresponds to the moment in which the #MeToo went viral for the first time. 
+Interstingly the second wave is not only linked to events directly linked to MeToo but happened at the same time as the birth of many other social movements inspired by MeToo: #SilenceIsNotSpiritual, MeTooK12 and the discussion of the ME TOO bill in U.S. Congress. As for the third wave it corresponds to the accusation of Brett Kavnaugh. 
 
 
 **What is the impact of non-traumatic events ?**
@@ -142,13 +144,15 @@ After a dip during Christmas due to the reduction of people releasing quotes, we
 |:------:|:------:|
 |<img src="assets/img/Impact_non_traumatic.png" width = "400" > | <img src="assets/img/nontraumatic.png" width = "400" >|
 
+{% include plots/cropped_non_traumatic_final.html %}
 
-**Are we able to compare impacts from traumatic VS non-traumatic events ?**
+**How does the impact of non-traumatic and traumatic events compare ?**
 
 The impact measure we obtained is higher for the traumatic events before the aforementioned waves. It appears then that the movement was fueled by clusters of accusations. These probably also influenced one another by providing motivation to come forward to the victims. 
 Non traumatic events are more scattered and therefore had less impact on the timeline we analysed. In addition, some non-traumatic events can be considered consequences of traumatic events. One good example is the firing of Harvey Weistein, which is the most impactful out of the non-traumatics.
 
-{% include plots/cropped_non_traumatic_final.html %}
+If you have payed attention to the beginning of this post you might remember the movie Bombshell, which we mentionned as an example of a non-traumatic event acting as catalyst, however it does not appear to have had a big impact on the number of quotes. Although this might just indicate its impact was not as big as we anticipated, we rather believe that it is due to the release of the movie being in December. Indeed we notice that each year there is a sharp decrease in amount of quotes observed in December, which might have hidden the impact of Bombshel. 
+
 
 **How does the tweet dataset confirm our results?**
 
@@ -156,7 +160,7 @@ The tweets dataset related to MeToo were processed in a similar way to obtain a 
 
 <img src="assets/img/tweet_timeline_milo.png" width = "600" class="center"/>
 
-None of the events analysed seem to directly impact the subsequent wave: by closely examining them one stands out. It is widely believed (Darwish, 2019) that the revival of #MeToo in september and october 2018 was due to the accusations levelled towards Brett Kavanagh, made public on Sep. 16, which sparked an FBI investigation after widely covered hearings with the judiciary committee. On October 6th Kavanagh would go on to be confirmed by the senate in a polarized debate. The entire story lasted for weeks, becoming the main topic in the news and the subsequent online conversation on #MeToo would then peak and slowly return to baseline levels.
+None of the events analysed seem to directly impact the subsequent wave: by closely examining them one stands out. It is widely believed (Darwish, 2019) that the revival of #MeToo in september and october 2018 was due to the accusations levelled towards Brett Kavanaugh, made public on Sep. 16, which sparked an FBI investigation after widely covered hearings with the judiciary committee. On October 6th Kavanagh would go on to be confirmed by the senate in a polarized debate. The entire story lasted for weeks, becoming the main topic in the news and the subsequent online conversation on #MeToo would then peak and slowly return to baseline levels.
 
 *Darwish, K. (2019). Quantifying Polarization on Twitter: The Kavanaugh Nomination. ArXiv, abs/2001.02125.*
 
@@ -171,7 +175,7 @@ Given the inherently gendered nature of sexual harassment, we were interested in
 | <img src="assets/img/Gender_6M.png" width="300" > | <img src="assets/img/Gender_200K_white.png" width="300" > |
 
 We can observe that there is indeed a gender bias in the Quotebank dataset. It is also clear that this ratio is reversed when dealing with the filtered data, which highlights how women have been the driving force behind the #MeToo rise. 
-This fact even lead to the creation of a countermovement, #HimToo, a hashtag first focused on harassment on men but then redirected towards the apparent ease with which men could suffer negative consequences after being falsely accused (Boyle, Rathnayake, 2019). The time required for the legal process to actually settle the truth of accusations is most of the times too long and the career of the accused men, even if acquitted, can suffer. The Quotebank dataset gave us the means to find out how people were silenced, or cancelled, after an accusation.
+This fact even lead to the creation of a countermovement, #HimToo, a hashtag originally focused on harassment on men but then redirected towards the apparent ease with which men could suffer negative consequences after being falsely accused (Boyle, Rathnayake, 2019). The time required for the legal process to actually settle the truth of accusations is most of the times too long and the career of the accused men, even if acquitted, can suffer. The Quotebank dataset gave us the means to find out how people were silenced, or cancelled, after an accusation.
 
 *Boyle, K. and Rathnayake, C., 2019. #HimToo and the networking of misogyny in the age of #MeToo. Feminist Media Studies, 20(8), pp.1259-1277.*
 
