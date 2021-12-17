@@ -174,7 +174,7 @@ After a dip during Christmas due to the reduction of people releasing quotes, we
 
 **Are we able to compare impacts from traumatic VS non-traumatic events ?**
 
-{% include plots/cropped_2_titles.html %}
+{% include plots/Cropped_with_bombshell.html %}
 
 <img src="assets/img/increase_impact.jpeg" alt="foursquare_logo" width="100" style="float:right"/>
 Quantify the impact of a certain event was calculated based on the difference of number of #metoo quotes before and after the event date, on a window of 7 days. 
