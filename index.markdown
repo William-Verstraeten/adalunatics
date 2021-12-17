@@ -167,16 +167,27 @@ After a dip during Christmas due to the reduction of people releasing quotes, we
 
 **Are we able to compare impacts from traumatic VS non-traumatic events ?**
 
+The impact measure we obtained is higher for the traumatic events that happened to be before the aforementioned waves. It appears then that the movement was fueled by clusters of accusations. These probably also influenced one another by providing the motivation to come forward to the victims. 
+Non traumatic events are more scattered and therefore had less impact on the timeline we analysed.
+
 {% include plots/cropped_non_traumatic_final.html %}
 
 
 <img src="assets/img/increase_impact.jpeg" alt="foursquare_logo" width="100" style="float:right"/>
 Quantify the impact of a certain event was calculated based on the difference of number of #metoo quotes before and after the event date, on a window of 7 days. 
 
+**How does the tweet dataset integrate our results?**
 
-Measure the impact of these events and explain how we do so / Compare the impact of both traumatic and non-traumatic event
+The tweets dataset related to MeToo were processed in a similar way to obtain a timeline. Unfortunately the time covered ranges only from October 2018 to February 2019. We therefore restricted our analysis to the events around this time period.
 
 <img src="assets/img/tweet_timeline_milo.jpeg" width = "600" class="center"/>
+
+None of the events analysed seem to directly impact the subsequent wave: by closely examining them one stands out. It is widely believed (Darwish, 2019) that the revival of #MeToo in september and october 2018 was due to the accusations levelled towards Brett Kavanagh, made public on Sep. 16, which sparked an FBI investigation after widely covered hearings with the judiciary committee. On October 6th Kavanagh would go on to be confirmed by the senate in a polarized debate. The entire story lasted for weeks, becoming the main topic in the news and the subsequent online conversation on #metoo would then peak and slowly return to baseline levels.
+
+*Darwish, K. (2019). Quantifying Polarization on Twitter: The Kavanaugh Nomination. ArXiv, abs/2001.02125.*
+
+
+
 
 
 -----------------
