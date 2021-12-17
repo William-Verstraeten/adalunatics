@@ -81,7 +81,7 @@ Now that we have succesfully isolated these quotes we can start our analysis!
 The timeline of the counts of these quotes can be firstly observed on a monthly resolution to get an idea of the trends. It is evident that apart from a few early dips due to missing data the baseline increased significantly at the end of 2017, when the MeToo movement first became well known, sparking an increased conversation about sexual harassment. We can already see some sharp increases over the overall trend, which will be investigated further while examining events' impacts.
 
 
-<img src="assets/img/timeline.png" class="center"/>
+<img src="assets/img/timeline_cropped.png" class="center"/>
 
 <center> <h1>Is there a gender bias in the speakers of quotes related to sexual harassment?</h1> </center>
  
