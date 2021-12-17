@@ -31,7 +31,6 @@ Here are some interesting questions which we’ll dive into:
 4. Can we observe cancel culture as a ramification of the #MeToo movement?
 
 
--------
 
 <center> <h1>Can we extract quotes related to MeToo movement or Sexual Harassment in the workplace from Quotebank 2015-2020?</h1> </center>
 
@@ -86,7 +85,7 @@ The timeline of the counts of these quotes can be firstly observed on a monthly 
 
 <img src="assets/img/timeline_cropped.png" class="center"/>
 
-------
+
 
 <center> <h1>Is there a gender bias in the speakers of quotes related to sexual harassment?</h1> </center>
  
@@ -104,7 +103,7 @@ This fact even lead to the creation of a countermovement, #HimToo, a hashtag fir
 Boyle, K. and Rathnayake, C., 2019. #HimToo and the networking of misogyny in the age of #MeToo. Feminist Media Studies, 20(8), pp.1259-1277.
 
 
----------
+
 <center> <h1>Which events are responsible for the growth of the MeToo movement ?</h1> </center>
 
 |<img src="assets/img/accused_people.gif" class="center"/>|
@@ -162,8 +161,6 @@ Show tweet timeline
 Measure the impact of these events and explain how we do so / Compare the impact of both traumatic and non-traumatic event
 
 
--------
-
 
 
 <center> <h1>Can we observe cancel culture as a ramification of the #MeToo movement?</h1> </center>
@@ -209,7 +206,6 @@ Secondly, another t-test has been assessed between the normalized means of the c
 
 
 
-----------
 <center> <h1>Conclusion </h1> </center>
 
 
