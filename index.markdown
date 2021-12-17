@@ -2,7 +2,7 @@
 layout: page
 title: Movement Resurrection
 subtitle: What impacts a Human Rights Movement?
-cover-img: /assets/img/conclusion.gif
+cover-img: /assets/img/cover.gif
 use-site-title: true
 ---
 
