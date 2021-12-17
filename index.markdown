@@ -140,7 +140,7 @@ This plot displays the timeline of #MeToo quotes and the top 10 most impactful n
 It is clear that our impact measure detected two main waves in the public attention. The first which rises above the baseline is in October 2017, which is the moment in which the hashtag went viral for the first time  
 After a dip during Christmas due to the reduction of people releasing quotes, we can witness another large wave in January 2018. 
 
-| Distribution of non-traumatic events impacts | Top10 most impactful events |
+| Distribution of non-traumatic events impacts | Top 10 most impactful events 💥|
 |:------:|:------:|
 |<img src="assets/img/Impact_non_traumatic.png" width = "400" > | <img src="assets/img/nontraumatic.png" width = "400" >|
 
@@ -164,7 +164,7 @@ None of the events analysed seem to directly impact the subsequent wave: by clos
 
 *Darwish, K. (2019). Quantifying Polarization on Twitter: The Kavanaugh Nomination. ArXiv, abs/2001.02125.*
 
-Here, we assembled a random sample of tweets and visualized the location of these tweets on an interactive map to explore the tweets distribution.
+Here, we assembled a random sample of tweets and visualized the location of these tweets on an interactive map to explore their distribution.
 
 <iframe src="assets/plots/map.html" width="100%" height="600px"></iframe>
 
