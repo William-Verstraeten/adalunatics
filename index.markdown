@@ -116,13 +116,27 @@ We assume the number of quotes related to MeToo each day to be a proxy of the at
 
 **What is the impact of traumatic events ?**
 <img src="assets/plots/Traumatic_events_timeline.png" class="center"/>
-This plot displays the timeline of extracted quotes involved with the #metoo movement and shows the allegations/accusations. We can already observe a huge wave of accusations since mid-2017 to early 2018. 
-Talk about the 2week smoothing to reduce noise and the weekly trend
+This plot displays the timeline of extracted quotes involved with the #metoo movement and the timing of the allegations/accusations. We can already observe two huge waves of accusations in the middle of 2017 and early 2018.
+
+Now that we have our traumatic events we can measure their impact on the number of quotes related to sexual harassment.
+
+<img src="assets/plots/Impact_traumatic.png" class="center"/>
+
+
+When studying the 15 most impactful events we notice that these belong to the 2 main waves of accusations, indicating that these waves of accusations are indeed related to an incease in quotes related to sexual harassment. (Dear reader, you can check who was convicted at which moment directly on the timeline!) 
+
+Upon further investigation we notice that the first wave in October 2017 corresponds to the moment in which the #metoo went viral for the first time. 
+Interstingly the second wave is not only linked to events directly linked to metoo but happened at the same time as the birth of many other social movements inspired by metoo: #SilenceIsNotSpiritual, MeTooK12 and the discussion of the ME TOO bill in U.S. Congress. 
+
+
 {% include plots/cropped_1_titles.html %}
 
 **What is the impact of non-traumatic events ?**
+Now lets take a look at the non-traumatic events!
 <img src="assets/plots/Non_Traumatic_events_timeline.png" class="center"/>
-This plot displays the timeline of #metoo quotes and the top 15 most impactful traumatic events (dear reader, you can check who was convicted at which moment directly on the timeline!)
+
+This plot displays the timeline of #metoo quotes and the top 10 most impactful non-traumatic events. 
+
 It is clear that our impact measure detected two main waves in the public attention. The first which rises above the baseline is in October 2017, which is the moment in which the hashtag went viral for the first time  
 After a dip during Christmas due to the reduction of people releasing quotes, we can witness another large wave in January 2018. 
 
