@@ -12,6 +12,8 @@ Human Rights’ movements tend to experience surges in pupularity after emotiona
 <img src="assets/img/turanaburke.jpg" class="center"/>
 ---
 
+This data story focuses on the MeToo movement and in general about the topic of sexual harassment. We probe the media discourse and public opinion to gain insights about events and biases that characterize this discussion.
+
 <center> <h1>How to Tackle this Problem?</h1> </center>
 <img src="assets/img/quotebank.png" alt="foursquare_logo" width="210" style="float:right"/>
 In order to explore the public perception of the MeToo movement and investigate the impact of traumatic/non-traumatic events we explore quotes in the Quotebank dataset from 2015 to 2020. In order to augment our data, we have fetched tweets related to #MeToo from the public twitter API and integrated them with previously extracted tweets on MeToo.
