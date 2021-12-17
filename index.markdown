@@ -18,7 +18,6 @@ This data story focuses on the MeToo movement and in general about the topic of 
 <img src="assets/img/quotebank.png" alt="foursquare_logo" width="210" style="float:right"/>
 In order to explore the public perception of the MeToo movement and investigate the impact of traumatic/non-traumatic events we explore quotes in the Quotebank dataset from 2015 to 2020. In order to augment our data, we have fetched tweets related to #MeToo from the public twitter API and integrated them with previously extracted tweets on MeToo.
 
-
 <img src="assets/img/Leo-Twitter-1.gif" width="350" class="center"/>
 
 **GOAL :**
@@ -53,15 +52,12 @@ These are samples of the initially extracted quotes.
 Some of them do not look quite right, as we included some general keywords in our selection. We set out to refine our sample: using Latent Dirichlet Allocation (LDA) we assigned a topic to each of the previously extracted quotes. 
 The topics detected by the LDA were very insightful of the content of the quotes extracted so far.
 
-We could interpret them as  
+<img src="assets/plots/Chapter_1/ldatopics.png" class="center"/>
+We could interpret this topics as :
 1. **Women Empowerment** 👩 
 2. **Sexual Harassment** ❌
 3. **Politics** 📰
 4. **Christmassy** 🎄
-
-
-<img src="assets/plots/Chapter_1/ldatopics.png" class="center"/>
-
 
 The second topic seems to be more like our target. It was further investigated by adding another LDA layer to filter it more. Then, we applied a PCA to explore the clustering of the latest topics generated.
 The plot below shows a subsample of the first 2 PCA dimensions of the extracted quotes before filtering them based on topic a second time.
@@ -77,22 +73,16 @@ The clusters could be interpreted as
 3. **Sexual Harassment** ❌
 4. **Global Politics** 📰
 
-
 {% include plots/PCA_600K_good_size.html %}
-
-
 
 By taking a closer look we notice that the quotes linked to the third topic, in green, do indeed refer to sexual harassment. 
 Now that we have succesfully isolated these quotes we can start our analysis!
 
 (As a sidenote: notice how the outermost post at the top refers to a quote by Bill Clinton: "I did not have sexual relations with that page", was correctly labeled as a quote on politics and not sexual harasment even though the LDA algorithm did not have access to any information related to the speaker!)
 
-
 The timeline of the counts of these quotes can be firstly observed on a monthly resolution to get an idea of the trends. It is evident that apart from a few early dips due to missing data the baseline increased significantly at the end of 2017, when the MeToo movement first became well known, sparking an increased conversation about sexual harassment. We can already see some sharp increases over the overall trend, which will be investigated further while examining events' impacts.
 
-
 <img src="assets/img/timeline_cropped.png" class="center"/>
-
 
 -----------------
 
@@ -100,11 +90,9 @@ The timeline of the counts of these quotes can be firstly observed on a monthly 
  
 Given the inherently gendered nature of sexual harassment, we were interested in the gender ratio of the quoted people in Quotebank 2015-2020 and in the dataset of #metoo quotes. We hypothesised, due to the gender gap in leadership positions in many public fields, that there would be more quotes from males than females (and others) in Quotebank, and we wondered whether this feature would remain in the #MeToo quotes dataset we isolated. 
 
-
 | Distribution in Quotebank [6M quotes] | Distribution in #MeToo [200k quotes] |
 |:------:|:------:|
 | <img src="assets/img/Gender_6M.png" width="300" > | <img src="assets/img/Gender_200K_white.png" width="300" > |
-
 
 We can observe that there is indeed a gender bias in the Quotebank dataset. It is also clear that this ratio is reversed when dealing with the filtered data, which highlights how women have been the driving force behind the #MeToo rise. 
 This fact even lead to the creation of a countermovement, #HimToo, a hashtag first focused on harassment on men but then redirected towards the apparent ease with which men could suffer negative consequences after being falsely accused (Boyle, Rathnayake, 2019). The time required for the legal process to actually settle the truth of accusations is most of the times too long and the career of the accused men, even if acquitted, can suffer. The Quotebank dataset gave us the means to find out how people were silenced, or cancelled, after an accusation.
@@ -119,7 +107,6 @@ Boyle, K. and Rathnayake, C., 2019. #HimToo and the networking of misogyny in th
 |<img src="assets/img/accused_people.gif" class="center"/>|
 |:--:| 
 | *Names of Celebrities, Politicians and CEOs accused of Sexual Misconduct* |
-
 
 <img src="assets/img/webscraping.gif" alt="foursquare_logo" width="200" style="float:left"/>
 Over the years the #MeToo movement has been marked by a few key traumatic events which lead to a sharp increase in its popularity. We were interested in the impact of some events on the metoo movement. In other words, whether trends in the #metoo timeline were temporally linked to some events. 
@@ -139,14 +126,10 @@ Now that we have our traumatic events we can measure their impact on the number 
 |:------:|:------:|
 |<img src="assets/img/Impact_traumatic.png" width = "400px" class="center"/>| <img src="assets/img/top10.png" width = "400" >|
 
-
-
-
 When studying the 10 most impactful events we notice that these belong to the 2 main waves of accusations, indicating that these waves of accusations are indeed related to an incease in quotes related to sexual harassment. (Dear reader, you can check who was convicted at which moment directly on the timeline!) 
 
 Upon further investigation we notice that the first wave in October 2017 corresponds to the moment in which the #metoo went viral for the first time. 
 Interstingly the second wave is not only linked to events directly linked to metoo but happened at the same time as the birth of many other social movements inspired by metoo: #SilenceIsNotSpiritual, MeTooK12 and the discussion of the ME TOO bill in U.S. Congress. 
-
 
 {% include plots/cropped_traumatic_final.html %}
 
@@ -159,7 +142,6 @@ This plot displays the timeline of #metoo quotes and the top 10 most impactful n
 It is clear that our impact measure detected two main waves in the public attention. The first which rises above the baseline is in October 2017, which is the moment in which the hashtag went viral for the first time  
 After a dip during Christmas due to the reduction of people releasing quotes, we can witness another large wave in January 2018. 
 
-
 | Distribution of non-traumatic events impacts | Top10 most impactful events |
 |:------:|:------:|
 |<img src="assets/img/Impact_non_traumatic.png" width = "400" > | <img src="assets/img/nontraumatic.png" width = "400" >|
@@ -171,7 +153,6 @@ The impact measure we obtained is higher for the traumatic events that happened 
 Non traumatic events are more scattered and therefore had less impact on the timeline we analysed.
 
 {% include plots/cropped_non_traumatic_final.html %}
-
 
 <img src="assets/img/increase_impact.jpeg" alt="foursquare_logo" width="100" style="float:right"/>
 Quantify the impact of a certain event was calculated based on the difference of number of #metoo quotes before and after the event date, on a window of 7 days. 
@@ -223,24 +204,17 @@ We can observe on this three examples that the three of them seems have been can
 
 **Statistical analysis**
 
+This observation has still to be confirmed by statistical analysis using a t-test assessing the difference of means of the number of quotes between the periods before and after their conviction. This has been done while studying a set of 65 accused people, mostly americans.
 
-This observation has still to be confirmed by statistical analysis using a t-test assessing the difference of means of the number of quotes between the periods before and after their conviction.
-
-This has been done while studying a set of 65 accused people, mostly americans in which figures in addition to Al Franken, Andrew Kreisberg and Eric Schneiderman : Asia Argento, Luc Besson, Sylvester Stallone, Louis C.K., Kevin Spacey, Bob Weinstein, Oliver Stone, Roman Polanski, Matt Lauer, Glenn Thrush, Corey Lewandowski and others.
-
-<img src="assets/img/ezgif.com-gif-maker (1).gif" class="center"/>
-
-First, a t-test has been assessed between the normalized means of the count of quotes pronounced by them between the periods before and after their conviction, for each 65 accused people. This resulted with a significant p-value (p = 0.00046 <0.05). This puts in relief that this people are probably rejected by the society, giving them less time to express them, shutting them off the media, radios.
-
-Secondly, another t-test has been assessed between the normalized means of the count of quotes mentioning them, again between the periods before and after their conviction, for these same 65 accused people. This resulted with a non-significant p-value (p = 0.672 > 0.05). This means that we couldn’t show that the society talks less about these people after their conviction.
-
+First, a t-test has been assessed between the normalized means of the count of quotes pronounced by them between the periods before and after their conviction, for each 65 accused people. **This resulted with a significant p-value (p = 0.00046 <0.05). This puts in relief that this people are probably rejected by the society, giving them less time to express them, shutting them off the media, radios.** Secondly, another t-test has been assessed between the normalized means of the count of quotes mentioning them, again between the periods before and after their conviction, for these same 65 accused people. This resulted with a non-significant p-value (p = 0.672 > 0.05). This means that we couldn’t show that the society talks less about these people after their conviction.
 
 -----------------
 
 
 <center> <h1>Conclusion </h1> </center>
 
-
-
 <img src="assets/img/metooimg.png" alt="foursquare_logo" width="210" style="float:right"/>
 Based on the analysis performed, we strongly believe that non-traumatic events have observable impact on reviving the MeToo movement, which proves that we don’t need to wait for people to suffer or struggle in order to educate others and raise awareness. Media has an important role in impacting and shifting optics since it is related to most non-traumatic events. This analysis is a minor version of a potential extended and detailed project that could scrape all newspapers’ websites, social media interactions,...etc to get a much deeper understanding of the main factors affecting any human rights movement. Nonetheless, the Quotebank dataset is a powerful proxy of public discussion and is uniquely suited to analyse for example how much people are able to reach the wider public or not, as we did with cancel culture.
+
+<img src="assets/img/ezgif.com-gif-maker (1).gif" class="center"/>
+
