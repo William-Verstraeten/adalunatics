@@ -118,7 +118,7 @@ Boyle, K. and Rathnayake, C., 2019. #HimToo and the networking of misogyny in th
 | *Names of Celebrities, Politicians and CEOs accused of Sexual Misconduct* |
 
 
-
+<img src="assets/img/webscraping.gif" alt="foursquare_logo" width="210" style="float:right"/>
 Over the years the #MeToo movement has been marked by a few key traumatic events which lead to a sharp increase in its popularity. We were interested in the impact of some events on the metoo movement. In other words, whether trends in the #metoo timeline were temporally linked to some events. 
 Thus, we gathered a dataset of traumatic events, itemising events related to the core issue of sexual harassment: the allegations by victims. The main source is a [Vox article](https://www.vox.com/a/sexual-harassment-assault-allegations-list/asia-argento) listing more than 250 public figures which were accused of sexual harassment between 2017 and 2019.
 
@@ -225,9 +225,3 @@ Secondly, another t-test has been assessed between the normalized means of the c
 
 <img src="assets/img/metooimg.png" alt="foursquare_logo" width="210" style="float:right"/>
 Based on the analysis performed, we strongly believe that non-traumatic events have observable impact on reviving the MeToo movement, which proves that we don’t need to wait for people to suffer or struggle in order to educate others and raise awareness. Media has an important role in impacting and shifting optics since it is related to most non-traumatic events. This analysis is a minor version of a potential extended and detailed project that could scrape all newspapers’ websites, social media interactions,...etc to get a much deeper understanding of the main factors affecting any human rights movement. Nonetheless, the Quotebank dataset is a powerful proxy of public discussion and is uniquely suited to analyse for example how much people are able to reach the wider public or not, as we did with cancel culture.
-
-layout: page
-title: Movement Resurrection
-subtitle: What impacts a Human Rights Movement?
-cover-img: /assets/img/cover.gif
-use-site-title: true
