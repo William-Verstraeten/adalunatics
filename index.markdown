@@ -70,7 +70,7 @@ The clusters could be interpreted as
 
 
 
-By taking a closer look we notice that these quotes do indeed refer to sexual harassment!
+By taking a closer look we notice that the quotes linked to the third topic, in green, do indeed refer to sexual harassment. (You can see the quote itself by hovering the datapoint on the plot!)
 Now that we have succesfully isolated these quotes we can start our analysis!
 
 
