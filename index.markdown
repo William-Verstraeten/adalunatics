@@ -21,7 +21,9 @@ In order to explore the public perception of the MeToo movement and investigate 
 <img src="assets/img/Leo-Twitter-1.gif" width="200" style="float:left"/>
 In order to augment our data, we have fetched tweets related to #MeToo from the public twitter API and integrated them with previously extracted tweets on MeToo.
 
----
+
+
+
 **GOAL :**
 
 Here are some interesting questions which we’ll dive into:
