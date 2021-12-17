@@ -18,6 +18,7 @@ This data story focuses on the MeToo movement and in general about the topic of 
 <img src="assets/img/quotebank.png" alt="foursquare_logo" width="200" style="float:right"/> 
 In order to explore the public perception of the MeToo movement and investigate the impact of traumatic/non-traumatic events we explore quotes in the Quotebank dataset from 2015 to 2020. 
 
+
 <img src="assets/img/Leo-Twitter-1.gif" width="200" style="float:left"/>
 In order to augment our data, we have fetched tweets related to #MeToo from the public twitter API and integrated them with previously extracted tweets on MeToo.
 
