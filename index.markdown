@@ -176,11 +176,11 @@ Non traumatic events are more scattered and therefore had less impact on the tim
 <img src="assets/img/increase_impact.jpeg" alt="foursquare_logo" width="100" style="float:right"/>
 Quantify the impact of a certain event was calculated based on the difference of number of #metoo quotes before and after the event date, on a window of 7 days. 
 
-**How does the tweet dataset integrate our results?**
+**How does the tweet dataset confirm our results?**
 
 The tweets dataset related to MeToo were processed in a similar way to obtain a timeline. Unfortunately the time covered ranges only from October 2018 to February 2019. We therefore restricted our analysis to the events around this time period.
 
-<img src="assets/img/tweet_timeline_milo.jpeg" width = "600" class="center"/>
+<img src="assets/img/tweet_timeline_milo.png" width = "600" class="center"/>
 
 None of the events analysed seem to directly impact the subsequent wave: by closely examining them one stands out. It is widely believed (Darwish, 2019) that the revival of #MeToo in september and october 2018 was due to the accusations levelled towards Brett Kavanagh, made public on Sep. 16, which sparked an FBI investigation after widely covered hearings with the judiciary committee. On October 6th Kavanagh would go on to be confirmed by the senate in a polarized debate. The entire story lasted for weeks, becoming the main topic in the news and the subsequent online conversation on #metoo would then peak and slowly return to baseline levels.
 
