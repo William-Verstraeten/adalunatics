@@ -88,7 +88,7 @@ We were interested in the gender bias in Quotebank 2015-2020 and in the dataset 
 
 | Distribution in Quotebank [6M quotes] | Distribution in #MeToo [200k quotes] |
 |:------:|:------:|
-| <img src="assets/img/Gender_6M.png" width="300" > | <img src="assets/img/Gender_200K.png" width="300" > |
+| <img src="assets/img/Gender_6M.png" width="300" > | <img src="assets/img/Gender_200K_white.png" width="300" > |
 
 
 
