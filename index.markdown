@@ -100,7 +100,7 @@ We can observe that the proportion of quotes from male drastically decreases in 
 
 |<img src="assets/img/accused_people.gif" class="center"/>|
 |:--:| 
-| *Names of People accused of Sexual Misconduct* |
+| *Names of Celebrities, Politicians and CEOs accused of Sexual Misconduct* |
 
 
 Over the years the #MeToo movement has been marked by a few key traumatic events which lead to a sharp increase in its popularity. We were interested in the impact of some events on the metoo movement. In other words, whether trends in the #metoo timeline were temporally linked to some events. 
