@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MeToo Movement Resurrection
+title: Movement Resurrection
 subtitle: What imapcts a Human Rights Movement?
 cover-img: /assets/img/metooimg.png
 use-site-title: true
@@ -16,7 +16,7 @@ Human rights’ movements tend to get resurrected after a traumatic event. One s
 <img src="assets/img/quotebank.png" alt="foursquare_logo" width="210" style="float:right"/>
 We have used the Quotebank dataset from 2015 to 2020 to investigate the impact of traumatic/non-traumatic events on public opinion. Also, we have fetched tweets related to #MeToo to augment our data.
 
-<img src="assets/img/Leo-Twitter-1.gif" class="center"/>
+<img src="assets/img/Leo-Twitter-1.gif" width="350" class="center"/>
 
 **GOAL :**
 
@@ -86,13 +86,13 @@ Study the time distribution of these quotes
 We were interested in the gender bias in Quotebank 2015-2020 and in the dataset of #metoo quotes. We hypothesised that there would be more quotes from male than female and others in Quotebank and were wondering whether this trend would remain in the #MeToo quotes dataset. 
 
 
-| Distribution in Quotebank[6M quotes] | Distribution in #MeToo [200k quotes] |
+| Distribution in Quotebank [6M quotes] | Distribution in #MeToo [200k quotes] |
 |:------:|:------:|
 | <img src="assets/img/Gender_6M.png" width="300" > | <img src="assets/img/Gender_200K.png" width="300" > |
 
 
 
-We can observe that the proportion of quotes from male drastically decreases in the  #metoo quotes dataset, which confirms that there is indeed a general bias towards males which is reversed in the #metoo movement and proves that women are more involved in the movement.
+We can observe that the proportion of quotes from male drastically decreases in the  #MeToo quotes dataset, which confirms that there is indeed a general bias towards males which is reversed in the #MeToo movement and proves that women are more involved in the movement.
 
 
 ---------
@@ -100,10 +100,10 @@ We can observe that the proportion of quotes from male drastically decreases in 
 
 |<img src="assets/img/accused_people.gif" class="center"/>|
 |:--:| 
-| *Names of accused People* |
+| *Names of People accused of Sexual Misconduct* |
 
 
-Over the years the #metoo movement has been marked by a few key traumatic events which lead to a sharp increase in its popularity. We were interested in the impact of some events on the metoo movement. In other words, whether trends in the #metoo timeline were temporally linked to some events. 
+Over the years the #MeToo movement has been marked by a few key traumatic events which lead to a sharp increase in its popularity. We were interested in the impact of some events on the metoo movement. In other words, whether trends in the #metoo timeline were temporally linked to some events. 
 Thus, we gathered a dataset of traumatic events, itemising events related to the core issue of sexual harassment: the allegations by victims. The main source is a Vox article listing more than 250 public figures which were accused of sexual harassment between 2017 and 2019.
 
 <img src="assets/img/untouchable.jpg" alt="foursquare_logo" width="150" style="float:right"/>
