@@ -50,10 +50,9 @@ We then extracted all the quotes from quotebank which contained any of these key
 These are samples of the initially extracted quotes.
 <img src="assets/plots/Chapter_1/Sentence_cloud_1_shorter_copy.png" class="center"/>
 
+<img src="assets/plots/Chapter_1/ldatopics.png" width="600" class="center"/>
 Some of them do not look quite right, as we included some general keywords in our selection. We set out to refine our sample: using Latent Dirichlet Allocation (LDA) we assigned a topic to each of the previously extracted quotes. 
 The topics detected by the LDA were very insightful of the content of the quotes extracted so far.
-
-<img src="assets/plots/Chapter_1/ldatopics.png" width="600" class="center"/>
 
 We could interpret this topics as:
 1. **Women Empowerment** 👩 
