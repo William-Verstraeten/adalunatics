@@ -228,6 +228,8 @@ This observation has still to be confirmed by statistical analysis using a t-tes
 
 This has been done while studying a set of 65 accused people, mostly americans in which figures in addition to Al Franken, Andrew Kreisberg and Eric Schneiderman : Asia Argento, Luc Besson, Sylvester Stallone, Louis C.K., Kevin Spacey, Bob Weinstein, Oliver Stone, Roman Polanski, Matt Lauer, Glenn Thrush, Corey Lewandowski and others.
 
+<img src="assets/img/ezgif.com-gif-maker (1).gif" class="center"/>
+
 First, a t-test has been assessed between the normalized means of the count of quotes pronounced by them between the periods before and after their conviction, for each 65 accused people. This resulted with a significant p-value (p = 0.00046 <0.05). This puts in relief that this people are probably rejected by the society, giving them less time to express them, shutting them off the media, radios.
 
 Secondly, another t-test has been assessed between the normalized means of the count of quotes mentioning them, again between the periods before and after their conviction, for these same 65 accused people. This resulted with a non-significant p-value (p = 0.672 > 0.05). This means that we couldn’t show that the society talks less about these people after their conviction.
